@@ -2,4 +2,4 @@
 
 | Nombre | URL | Versión |
 |--------|-----|---------|
-| JJ     | [link](https://github.com/JJ/dummy-IV/pull/1) | 1 |
+| JJ     | [link](https://github.com/JJ/dummy-IV/pull/1) | 2 |
