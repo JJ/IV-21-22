@@ -2,4 +2,4 @@
 
 | Nombre | URL | Versión |
 |--------|-----|---------|
-| JJ | [Proyecto](https://github.com/cecimerelo/UnAlgoritmoFeliz/pull/75) |
+| JJ | [Proyecto](https://github.com/cecimerelo/UnAlgoritmoFeliz/pull/75) | |
