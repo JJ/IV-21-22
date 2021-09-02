@@ -2,4 +2,4 @@
 
 | Nombre | URL | Versión |
 |--------|-----|---------|
-| JJ | [Proyecto](https://github.com/cecimerelo/UnAlgoritmoFeliz/pull/75) | |
+| JJ | [Proyecto](https://github.com/JJ/grading-pr-info-gh-action/pull/4) | |
