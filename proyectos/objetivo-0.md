@@ -47,7 +47,7 @@ línea con tus iniciales.
 | <!-- Enlace de Slowmybrosh --> | | |
 | <!-- Enlace de O V S --> | | |
 | <!-- Enlace de O R J L --> | | |
-| <!-- Enlace de Xileon310 --> | | |
+| <!-- https://github.com/Xileon310/IV/pull/1 --> | 0.0.1 | |
 | <!-- Enlace de Parka015 --> | | |
 | <!-- Enlace de S R E --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
