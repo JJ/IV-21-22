@@ -33,7 +33,7 @@ línea con tus iniciales.
 | <!-- Enlace de G R A A --> | |
 | <!-- Enlace de H G J M --> | |
 | <!-- Enlace de venrra --> | |
-| https://github.com/Antobio17/IV/pull/1 | 0.0.1 |
+| https://github.com/Antobio17/IV/pull/1 | 0.0.2 |
 | <!-- Enlace de J T M --> | |
 | <!-- Enlace de migueorg --> | |
 | <!-- Enlace de jesusmarzor --> | |
