@@ -29,7 +29,7 @@ línea con tus iniciales.
 | <!-- Enlace de lentes4k --> | | |
 | <!-- Enlace de joaquingv12 --> | | |
 | <!-- Enlace de gomares --> | | |
-| <!-- Enlace de modejota --> | | |
+| <!-- Enlace de modejota --> | | |https://github.com/aleveji/BuscaRecetas/pull/1
 | <!-- Enlace de G R A A --> | | |
 | <!-- Enlace de H G J M --> | | |
 | <!-- Enlace de venrra --> | | |
@@ -53,7 +53,7 @@ línea con tus iniciales.
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
-| <!-- Enlace de aleveji --> | | |
+| https://github.com/aleveji/BuscaRecetas/pull/1 | 0.0.1 | |
 | <!-- Enlace de paula1999 --> | | |
 | <!-- Enlace de xCyal --> | | |
 | https://github.com/vlljuan99/gasolinapp/pull/5 | 0.0.1 | ✓ |
