@@ -7,7 +7,7 @@ línea con tus iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de noise-kngdm --> | | |
+| https://github.com/JJ/dummy-IV/pull/2 | | |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | <!-- Enlace de Paszser --> | | |
