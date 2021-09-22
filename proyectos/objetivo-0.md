@@ -63,3 +63,4 @@ línea con tus iniciales.
 | https://github.com/JAntonioVR/IV-2021-2022/pull/1 | 0.0.1 |✓ |
 | https://github.com/pablozafra97/proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/DFolchA/StatsOfLegends/pull/1 | 0.0.1 | ✓ |
+| https://github.com/edusegrich/OpoTests/pull/1 | 0.0.1 | |
