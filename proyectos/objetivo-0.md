@@ -8,7 +8,7 @@ línea con tus iniciales.
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
 | https://github.com/noise-kngdm/enumerathor/pull/1 | 0.0.1 | |
-| https://github.com/Esturillo98/IV/pull/1 | 0.0.1 | |
+| https://github.com/Esturillo98/IV/pull/2 | 0.0.1 | |
 | https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/1 | 0.0.1 |✓ |
 | https://github.com/Paszser/IV/pull/2 | 0.0.1 |✓ |
 | https://github.com/Mapachana/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
