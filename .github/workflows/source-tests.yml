@@ -2,7 +2,7 @@ name: "Tests sobre fuentes del repo del estudiante"
 on:
   pull_request:
     paths:
-      - 'proyectos/*.md'
+      - "proyectos/*.md"
 
 jobs:
   ops-on-pr:
@@ -10,7 +10,7 @@ jobs:
     outputs:
       user: ${{steps.pr_info.outputs.user}}
       repo: ${{steps.pr_info.outputs.repo}}
-      file: ${{steps.pr_info.outputs.file}}
+      objetivo: ${{steps.pr_info.outputs.objetivo}}
     steps:
       - id: pr_info
         name: Comprueba y analiza
@@ -23,7 +23,7 @@ jobs:
     env:
       user: ${{ needs.ops-on-pr.outputs.user }}
       repo: ${{ needs.ops-on-pr.outputs.repo }}
-      file: ${{ needs.ops-on-pr.outputs.file }}
+      objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
     steps:
       - name: Descarga fuente
         uses: actions/checkout@v2
@@ -34,3 +34,42 @@ jobs:
         with:
           fase: ${{env.file}}
         uses: JJ/grading-source-tests-gh-action@main
+  ops-using-API:
+    runs-on: ubuntu-latest
+    needs: ops-on-pr
+    env:
+      user: ${{ needs.ops-on-pr.outputs.user }}
+      repo: ${{ needs.ops-on-pr.outputs.repo }}
+      objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
+    steps:
+      - name: Descarga fuente
+        uses: actions/checkout@v2
+      - name: Comprueba hitos en repo estudiante
+        uses: actions/github-script@v4
+        if: ${{env.objetivo >= 1}}
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const {objetivo_msg, all_good, sorry } = require("./lib/mensajes.js")
+            const user = process.env.user
+            const repo = process.env.repo
+            const objetivo = process.env.objetivo
+            console.log( objetivo_msg(objetivo) )
+            const milestones = await github.issues.listMilestones( { owner: user, repo: repo } )
+            if ( ! milestones.data.length ) {
+                core.setFailed( sorry( "Tiene que haber por lo menos un milestone") )
+            }
+            const minMilestones = 2
+            if ( minMilestones && milestones.data.length < minMilestones ) {
+                core.setFailed( sorry("Tendría que haber más de " + minMilestones + " milestone(s)"));
+            }
+            var totalIssues = 0
+            var totalClosedIssues = 0
+            milestones.data.forEach( async function( milestone ) {
+                totalIssues += milestone.open_issues + milestone.closed_issues
+                totalClosedIssues += milestone.closed_issues
+            })
+            console.log( all_good("Hay " + totalIssues + " issues en tus milestones y " + totalClosedIssues + " cerrados "))
+            if ( ! totalIssues ) {
+                core.setFailed( sorry("No hay ningún issue en tus milestones"))
+            }

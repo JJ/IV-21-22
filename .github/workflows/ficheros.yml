@@ -9,6 +9,6 @@ jobs:
       uses: JJ/github-pr-contains-action@releases/v2
       with:
         github-token: ${{github.token}}
-        bodyContains: "] Prometo"
+        bodyContains: "] NOCERRAR"
         bodyDoesNotContain: "Borrar"
         filesChanged: 1
