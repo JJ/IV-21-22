@@ -40,7 +40,7 @@ línea con tus iniciales.
 | https://github.com/migueorg/tmp-Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/jesusmarzor/Proyecto-IV/pull/1 | 0.0.1 | ✓  |
 | <!-- Enlace de M B F A --> | | |
-| <!-- Enlace de amerigal --> | | |
+| https://github.com/amerigal/proyecto_iv/pull/1 | 0.0.1 | |
 | https://github.com/Asmilex/IV/pull/1 | 0.0.2 | ✓ |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/2 |0.0.1 | |
 | <!-- Enlace de M H A --> | | |
