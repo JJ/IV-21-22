@@ -30,7 +30,7 @@ línea con tus iniciales.
 | <!-- Enlace de joaquingv12 --> | | |
 | <!-- Enlace de gomares --> | | |
 | <!-- Enlace de modejota --> | | |
-| https://github.com/argelion14/proyecto-IV/pull/2 |0.0.4 | |
+| https://github.com/argelion14/proyecto-IV/pull/2 |0.0.5 | |
 | <!-- Enlace de H G J M --> | | |
 | <!-- Enlace de venrra --> | | |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | |
