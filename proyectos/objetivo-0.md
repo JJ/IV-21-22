@@ -49,7 +49,7 @@ línea con tus iniciales.
 | https://github.com/Slowmybrosh/PracticaIV/pull/1 | 0.0.1 |✓ |
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/1 | 0.0.1 | |
 | <!-- Enlace de O R J L --> | | |
-| https://github.com/Xileon310/IV-Project/pull/1 | | ✓ |
+| https://github.com/Xileon310/IV-Project/pull/2 | 0.0.2 | ✓ |
 | https://github.com/Parka015/IV-Proyecto/pull/1 | 0.0.1 | |
 | <!-- Enlace de S R E --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
