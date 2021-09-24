@@ -41,7 +41,7 @@ línea con tus iniciales.
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
 | <!-- Enlace de Asmilex --> | | |
-| https://github.com/ismaelmontesinos/PracticaIV/pull/3 | 0.0.1 | |
+| https://github.com/ismaelmontesinos/PracticaIV/pull/3 | 0.0.2 | |
 | <!-- Enlace de morevi --> | | |
 | <!-- Enlace de Pablont98 --> | | |
 | <!-- Enlace de Slowmybrosh --> | | |
