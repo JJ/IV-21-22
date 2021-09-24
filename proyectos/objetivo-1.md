@@ -1,7 +1,7 @@
 # Objetivo 1
 
 Añade debajo el enlace al PR en tu repositorio, siguiendo las instrucciones en
-el guión. Usa la línea con tu nick de GitHub (si lo has proporcionado). Si no lo
+el guión. Usa la línea con tu nick de GitHub; si no lo
 has hecho, primero ponlo en la hoja de equivalencias y a continuación usa la
 línea con tus iniciales.
 
@@ -12,13 +12,12 @@ línea con tus iniciales.
 | <!-- Enlace de LuisArostegui --> | | |
 | <!-- Enlace de Paszser --> | | |
 | <!-- Enlace de Mapachana --> | | |
-| <!-- Enlace de IgnasiCR --> | | |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | <!-- Enlace de Balrrach --> | | |
 | <!-- Enlace de alexespana --> | | |
-| <!-- Enlace de E M J --> | | |
+| <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
 | <!-- Enlace de josevilchez247 --> | | |
@@ -34,15 +33,15 @@ línea con tus iniciales.
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
-| <!-- Enlace de Antobio17 --> | | |
+| [Antobio17](https://github.com/Antobio17/IV/pull/5) | 0.0.2 | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
-| <!-- Enlace de M B F A --> | | |
+| <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
 | <!-- Enlace de Asmilex --> | | |
-| <!-- Enlace de ismaelmontesinos --> | | |
+| https://github.com/ismaelmontesinos/PracticaIV/pull/3 | 0.0.2 | |
 | <!-- Enlace de morevi --> | | |
 | <!-- Enlace de Pablont98 --> | | |
 | <!-- Enlace de Slowmybrosh --> | | |

@@ -41,6 +41,9 @@ asignadas al mismo.
   proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura.recursos). Fecha
   aconsejada para la entrega de este hito: **Al final de la clase de prácticas
   del 24 de septiembre de 2021**.
+  
+* Presentación de la [clase dividida sobre historias de
+  usuario](http://jj.github.io/IV/preso/hu.html)
 
 ## Material adicional
 
