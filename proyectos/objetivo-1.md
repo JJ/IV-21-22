@@ -37,7 +37,7 @@ línea con tus iniciales.
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
-|https://github.com/jesusmarzor/Proyecto-IV/pull/6| 0.0.3 | |
+| [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | 0.0.3 | |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
 | <!-- Enlace de Asmilex --> | | |
