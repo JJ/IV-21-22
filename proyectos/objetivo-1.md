@@ -15,7 +15,7 @@ línea con tus iniciales.
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
-| <!-- Enlace de Balrrach --> | | |
+| [Balrrach](https://github.com/Balrrach/IV-Proyecto/pull/7) | 0.0.2 | |
 | https://github.com/alexespana/Proyecto-IV/pull/6 | 0.0.2 | |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
