@@ -11,7 +11,7 @@ línea con tus iniciales.
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | https://github.com/Paszser/IV/pull/5 | 0.0.2 | |
-| <!-- Enlace de Mapachana --> | | |
+| https://github.com/Mapachana/Proyecto-IV/pull/5 | 0.0.2 | |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
