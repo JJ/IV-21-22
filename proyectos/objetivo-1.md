@@ -25,7 +25,7 @@ línea con tus iniciales.
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
-| <!-- Enlace de Olasergiolas --> | | |
+| https://github.com/Olasergiolas/Proyecto-IV/pull/5 | 0.0.2 | |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | 0.0.2 | |
 | https://github.com/joaquingv12/Proyecto-IV/pull/5 | 0.0.2 | |
 | <!-- Enlace de gomares --> | | |
