@@ -54,7 +54,7 @@ línea con tus iniciales.
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
-| <!-- Enlace de paula1999 --> | | |
+| [paula1999](https://github.com/paula1999/IV/pull/5) | 0.0.2 | |
 | <!-- Enlace de xCyal --> | | |
 | [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | 0.0.2 | |
 | [JAntonioVR](https://github.com/JAntonioVR/IV-2021-2022/pull/8) | 0.0.2 | |
