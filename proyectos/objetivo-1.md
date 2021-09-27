@@ -57,5 +57,5 @@ línea con tus iniciales.
 | <!-- Enlace de paula1999 --> | | |
 | <!-- Enlace de xCyal --> | | |
 | [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | 0.0.2 | |
-| <!-- Enlace de JAntonioVR --> | | |
+| [JAntonioVR](https://github.com/JAntonioVR/IV-2021-2022/pull/8) | 0.0.2 | |
 | <!-- Enlace de pablozafra97 --> | | |
