@@ -41,7 +41,7 @@ línea con tus iniciales.
 | <!-- Enlace de M B F A --> | | |
 | https://github.com/amerigal/proyecto_iv/pull/1 | 0.0.2 | |
 | https://github.com/Asmilex/IV/pull/1 | 0.0.2 | ✓ |
-| https://github.com/ismaelmontesinos/PracticaIV/pull/2 |0.0.1 | |
+| https://github.com/ismaelmontesinos/PracticaIV/pull/13 |0.0.2 | |
 | <!-- Enlace de M H A --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/2 | 0.0.1 | ✓ |
@@ -62,4 +62,3 @@ línea con tus iniciales.
 | https://github.com/pablozafra97/proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/DFolchA/StatsOfLegends/pull/1 | 0.0.1 | ✓ |
 | https://github.com/edusegrich/OpoTests/pull/1 | 0.0.1 | ✓ |
-
