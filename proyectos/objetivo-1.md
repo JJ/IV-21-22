@@ -47,7 +47,7 @@ línea con tus iniciales.
 | https://github.com/Slowmybrosh/PracticaIV/pull/10 | 0.0.2 | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
-| https://github.com/Xileon310/IV-Project/pull/10 | 0.0.4 | |
+| [Xileon310](https://github.com/Xileon310/IV-Project/pull/11) | 0.0.4 | |
 | <!-- Enlace de Parka015 --> | | |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
