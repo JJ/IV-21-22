@@ -8,7 +8,7 @@ línea con tus iniciales.
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
 | <!-- Enlace de noise-kngdm --> | | |
-| <!-- Enlace de Esturillo98 --> | | |
+| [Esturillo98](https://github.com/Esturillo98/IV/pull/8)| 0.0.2 | |
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | 0.0.2 | |
 | https://github.com/Paszser/IV/pull/5 | 0.0.2 |  |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 | 0.0.2 | ✓ |
