@@ -7,7 +7,7 @@ línea con tus iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de noise-kngdm --> | | |
+| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/6) | 0.0.2 | |
 | <!-- Enlace de Esturillo98 --> | | |
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | 0.0.2 | |
 | https://github.com/Paszser/IV/pull/5 | 0.0.2 |  |
