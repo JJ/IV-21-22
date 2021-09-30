@@ -23,7 +23,7 @@ línea con tus iniciales.
 | https://github.com/josevilchez247/Odyssey/pull/4 | 0.0.2 | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
-| <!-- Enlace de JaimeGM96 --> | | |
+| https://github.com/JaimeGM96/Practica-IV/pull/5 | 0.0.2 | |
 | <!-- Enlace de agr8 --> | | |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 | 0.0.2 | |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | 0.0.2 | |
