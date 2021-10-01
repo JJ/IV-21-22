@@ -1,4 +1,4 @@
-# Objetivo 1
+# Objetivo 2
 
 Añade debajo el enlace al PR en tu repositorio, siguiendo las instrucciones en
 el guión. Usa la línea con tu nick de GitHub; si no lo
