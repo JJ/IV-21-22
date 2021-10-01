@@ -24,7 +24,7 @@ línea con tus iniciales.
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/5 | 0.0.2 | |
-| <!-- Enlace de agr8 --> | | |
+| https://github.com/agr8/Proyecto-IV/pull/11 | 0.0.2 | |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 | 0.0.2 | |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | 0.0.2 |✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/5 | 0.0.2 | |
