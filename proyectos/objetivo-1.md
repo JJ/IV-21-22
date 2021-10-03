@@ -53,7 +53,7 @@ línea con tus iniciales.
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
-| <!-- Enlace de aleveji --> | | |
+| https://github.com/aleveji/BuscaRecetas/pull/4 | 0.0.3 | |
 | [paula1999](https://github.com/paula1999/IV/pull/5) | 0.0.2 |✓ |
 | <!-- Enlace de xCyal --> | | |
 | [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | 0.0.2 | ✓ |
