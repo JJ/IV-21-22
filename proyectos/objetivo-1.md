@@ -32,7 +32,7 @@ línea con tus iniciales.
 | https://github.com/modejota/IVProject/pull/13 | 0.0.2 | ✓ |
 | https://github.com/argelion14/proyecto-IV/pull/4 |0.0.2 | |
 | <!-- Enlace de juanmihdz --> | | |
-| <!-- Enlace de venrra --> | | |
+| [venrra](https://github.com/venrra/apiTrainer/pull/7) | v0.0.2 | |
 | [Antobio17](https://github.com/Antobio17/IV/pull/5) | 0.0.2 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
