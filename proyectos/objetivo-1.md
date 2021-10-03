@@ -30,7 +30,7 @@ línea con tus iniciales.
 | https://github.com/joaquingv12/Proyecto-IV/pull/5 | 0.0.2 |✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/IVProject/pull/13 | 0.0.2 | ✓ |
-| https://github.com/argelion14/proyecto-IV/pull/4 |0.0.1 | |
+| https://github.com/argelion14/proyecto-IV/pull/4 |0.0.2 | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
 | [Antobio17](https://github.com/Antobio17/IV/pull/5) | 0.0.2 | ✓ |
