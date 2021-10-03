@@ -31,7 +31,7 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
 * Consejos:
   * Corrige los errores en cuanto que ocurran.
-  * En generla, se van a corregir o mandar revisiones al objetivo sobre la
+  * En general, se van a corregir o mandar revisiones al objetivo sobre la
     marcha. El actuar lo antes posible permite tener más presente lo que se ha
     hecho y lo que se quiere hacer.
   * Trata de entender los conceptos antes de escribir. Si no lo tienes claro,

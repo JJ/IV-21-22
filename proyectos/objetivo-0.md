@@ -19,8 +19,7 @@ línea con tus iniciales.
 | <!-- Enlace de E M J --> | | |
 | https://github.com/MarinoFajardo/AhorraLuz/pull/1 | 0.0.1 | ✓ |
 | https://github.com/danifm1321/proyectoIV/pull/1 | 0.0.1 | ✓ |
-| https://github.com/josevilchez247/Odyssey/pull/1 | 0.0.1 | ✓ |
-| <!-- Enlace de arguellesm --> | | |
+| https://github.com/josevilchez247/Odyssey/pull/5 | 0.0.1 | ✓ |
 | https://github.com/arguellesm/faux/pull/1 | 0.0.1 |  |
 | <!-- Enlace de F A D --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/1 | 0.0.1 | ✓ |
@@ -28,20 +27,20 @@ línea con tus iniciales.
 | https://github.com/Olasergiolas/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/lentes4k/Proyecto-IV/pull/2 | 0.0.1 |✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
-| <!-- Enlace de gomares --> | | |
+| https://github.com/gomares/Proyecto_IV/pull/1 | | ✓ |
 | https://github.com/modejota/IVProject/pull/1 | 0.0.1 | ✓ |
 | https://github.com/argelion14/proyecto-IV/pull/2 |0.0.5 |✓ |
-| <!-- Enlace de H G J M --> | | |
+| https://github.com/juanmihdz/Proyecto-IV/pull/1 | | |
 | https://github.com/venrra/NombreGenericoAPI/pull/1  | v0.0.0 | ✓ |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de J T M --> | | |
 | https://github.com/manujurado1/smartfootballapp/pull/1 | 0.0.1 | ✓ |
 | https://github.com/migueorg/tmp-Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/jesusmarzor/Proyecto-IV/pull/2 | 0.0.2 | ✓  |
-| <!-- Enlace de M B F A --> | | |
-| https://github.com/amerigal/proyecto_iv/pull/1 | 0.0.2 | |
+| https://github.com/francisco3207/IVProyecto/pull/1 | 0.0.1 | |
+| https://github.com/amerigal/proyecto_iv/pull/1 | 0.0.2 |✓ |
 | https://github.com/Asmilex/IV/pull/1 | 0.0.2 | ✓ |
-| https://github.com/ismaelmontesinos/PracticaIV/pull/2 |0.0.1 | |
+| https://github.com/ismaelmontesinos/PracticaIV/pull/13 |0.0.2 |✓ |
 | <!-- Enlace de M H A --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/2 | 0.0.1 | ✓ |
@@ -62,4 +61,3 @@ línea con tus iniciales.
 | https://github.com/pablozafra97/proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/DFolchA/StatsOfLegends/pull/1 | 0.0.1 | ✓ |
 | https://github.com/edusegrich/OpoTests/pull/1 | 0.0.1 | ✓ |
-

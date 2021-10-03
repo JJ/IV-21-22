@@ -7,7 +7,7 @@ línea con tus iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de noise-kngdm --> | | |
+| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/6) | 0.0.2 | |
 | <!-- Enlace de Esturillo98 --> | | |
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | 0.0.2 | |
 | https://github.com/Paszser/IV/pull/5 | 0.0.2 |  |
@@ -20,14 +20,14 @@ línea con tus iniciales.
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
-| https://github.com/josevilchez247/Odyssey/pull/4 | 0.0.2 | |
+| https://github.com/josevilchez247/Odyssey/pull/8 | 0.0.2 | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
-| <!-- Enlace de JaimeGM96 --> | | |
-| <!-- Enlace de agr8 --> | | |
+| https://github.com/JaimeGM96/Practica-IV/pull/5 | 0.0.2 | |
+| https://github.com/agr8/Proyecto-IV/pull/11 | 0.0.2 | |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 | 0.0.2 | |
-| https://github.com/lentes4k/Proyecto-IV/pull/12 | 0.0.2 | |
-| https://github.com/joaquingv12/Proyecto-IV/pull/5 | 0.0.2 | |
+| https://github.com/lentes4k/Proyecto-IV/pull/12 | 0.0.2 |✓ |
+| https://github.com/joaquingv12/Proyecto-IV/pull/5 | 0.0.2 |✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/IVProject/pull/13 | 0.0.2 | ✓ |
 | https://github.com/argelion14/proyecto-IV/pull/4 |0.0.1 | |
@@ -47,15 +47,15 @@ línea con tus iniciales.
 | https://github.com/Slowmybrosh/PracticaIV/pull/10 | 0.0.2 | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
-| https://github.com/Xileon310/IV-Project/pull/9 | 0.0.3 | |
+| [Xileon310](https://github.com/Xileon310/IV-Project/pull/12) | 0.0.4 | |
 | <!-- Enlace de Parka015 --> | | |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
-| [paula1999](https://github.com/paula1999/IV/pull/5) | 0.0.2 | |
+| [paula1999](https://github.com/paula1999/IV/pull/5) | 0.0.2 |✓ |
 | <!-- Enlace de xCyal --> | | |
-| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | 0.0.2 | |
+| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | 0.0.2 | ✓ |
 | [JAntonioVR](https://github.com/JAntonioVR/IV-2021-2022/pull/8) | 0.0.2 | |
 | <!-- Enlace de pablozafra97 --> | | |
