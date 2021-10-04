@@ -7,7 +7,7 @@
 | [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/6) |  |
 | <!-- Enlace de Esturillo98 --> | | |
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | |
-| https://github.com/Paszser/IV/pull/5 |  |
+| https://github.com/Paszser/IV/pull/5 | @lentes4k |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 |  |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
