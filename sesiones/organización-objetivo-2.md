@@ -13,7 +13,7 @@
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | [Balrrach](https://github.com/Balrrach/IV-Proyecto/pull/7) | @Asmilex |
-| https://github.com/alexespana/Proyecto-IV/pull/6 |  |
+| https://github.com/alexespana/Proyecto-IV/pull/6 | @Antobio17 |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
