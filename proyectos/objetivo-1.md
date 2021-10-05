@@ -51,6 +51,7 @@ línea con tus iniciales.
 | <!-- Enlace de Xileon310 --> | | |
 | <!-- Enlace de Parka015 --> | | |
 | <!-- Enlace de edusegrich --> | | |
+| [edusegrich](https://github.com/edusegrich/OpoTests/pull/10) | 0.0.2 | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
