@@ -4,7 +4,7 @@
 
 | URL                                        | Quién lo desarrolla |
 |--------------------------------------------|---------------------|
-| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/6) |  |
+| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/6) | @joaquingv12 |
 | <!-- Enlace de Esturillo98 --> | | |
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | |
 | https://github.com/Paszser/IV/pull/5 | @lentes4k |
