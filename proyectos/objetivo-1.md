@@ -19,7 +19,7 @@ línea con tus iniciales.
 | https://github.com/alexespana/Proyecto-IV/pull/6 | 0.0.2 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| <!-- Enlace de danifm1321 --> | | |
+| https://github.com/danifm1321/proyectoIV/pull/5 | 0.0.2 | |
 | https://github.com/josevilchez247/Odyssey/pull/9 | 0.0.2 | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
