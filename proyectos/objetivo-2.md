@@ -4,7 +4,7 @@ Añade debajo el enlace al PR en tu repositorio, siguiendo las instrucciones en
 el guión. Usa la línea con tu nick de GitHub; si no lo
 has hecho, primero ponlo en la hoja de equivalencias y a continuación usa la
 línea con tus iniciales.
-[Test](https://github.com/JJ/dummy-IV/pull/6)   
+[Test](https://github.com/JJ/dummy-IV/pull/6)  
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
 | <!-- Enlace de noise-kngdm --> | | |
