@@ -50,6 +50,7 @@ línea con tus iniciales.
 | [Xileon310](https://github.com/Xileon310/IV-Project/pull/12) | 0.0.4 | |
 | <!-- Enlace de Parka015 --> | | |
 | <!-- Enlace de edusegrich --> | | |
+[edusegrich](https://github.com/edusegrich/OpoTests/pull/10) | 0.0.2 | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
