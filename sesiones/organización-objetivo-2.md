@@ -34,7 +34,7 @@
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
-| [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) |  |
+| [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | @Balrrach |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
 | [Asmilex](https://github.com/Asmilex/IV/pull/6) | |
