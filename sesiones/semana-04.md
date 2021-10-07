@@ -21,7 +21,7 @@ Por ejemplo, en [el material de la asignatura](https://github.com/JJ/IV).
 ## Material para la clase
 
 
-* [Automatizar](http://jj.github.io/IV/documentos/proyectos/3.Automatizar)
+* [Automatizar](http://jj.github.io/IV/documentos/proyecto/3.Automatizar)
 
 
 ## Siguientes sesiones
