@@ -6,7 +6,7 @@
 |--------------------------------------------|---------------------|
 | [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/6) | @joaquingv12 |
 | <!-- Enlace de Esturillo98 --> | | |
-| [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | venrra |
+| [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | @venrra |
 | https://github.com/Paszser/IV/pull/5 | @alexespana |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 | @Pablont98 |
 | <!-- Enlace de eantoniocalo18 --> | | |
@@ -36,7 +36,7 @@
 | <!-- Enlace de migueorg --> | | |
 | [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | @Balrrach |
 | <!-- Enlace de francisco3207 --> | | |
-| [amerigal](https://github.com/amerigal/proyecto_iv/pull/5)  | venrra |
+| [amerigal](https://github.com/amerigal/proyecto_iv/pull/5)  | @noise-kngdm |
 | [Asmilex](https://github.com/Asmilex/IV/pull/6) | Parka015 |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/3 | |
 | <!-- Enlace de morevi --> | | |
