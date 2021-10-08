@@ -16,7 +16,7 @@
 | https://github.com/alexespana/Proyecto-IV/pull/6 | @Antobio17 |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| <!-- Enlace de danifm1321 --> | | |
+| [danifm1321](https://github.com/danifm1321/proyectoIV/pull/5) | @amerigal |
 | https://github.com/josevilchez247/Odyssey/pull/8 | @jantonioVR |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
