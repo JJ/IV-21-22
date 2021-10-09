@@ -40,7 +40,7 @@ línea con tus iniciales.
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
-| https://github.com/Balrrach/IV-Proyecto/pull/14 | 0.0.5 | |
+| https://github.com/Balrrach/IV-Proyecto/pull/14 | 0.0.6 | |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Mapachana/Proyecto-IV/pull/8 | 0.0.3 | |
