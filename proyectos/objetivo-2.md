@@ -27,7 +27,7 @@ línea con tus iniciales.
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
 | <!-- Enlace de lentes4k --> | | |
-| https://github.com/noise-kngdm/music-matcher/pull/10 | 0.0.3 | |
+| https://github.com/noise-kngdm/music-matcher/pull/10 | 0.0.3 |  |
 | <!-- Enlace de gomares --> | | |
 | <!-- Enlace de modejota --> | | |
 | <!-- Enlace de argelion14 --> | | |
