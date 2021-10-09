@@ -11,7 +11,7 @@ línea con tus iniciales.
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | <!-- Enlace de Paszser --> | | |
-| https://github.com/JAntonioVR/IV-2021-2022/pull/19 | 0.0.3 | |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/19 | 0.0.4 | |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
