@@ -57,5 +57,5 @@ línea con tus iniciales.
 | https://github.com/vlljuan99/gasolinapp/pull/15 | 0.0.3 | |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
-| https://github.com/josevilchez247/Odyssey/pull/18 | 0.0.3 | |
+| https://github.com/josevilchez247/Odyssey/pull/18 | 0.0.4 | |
 | <!-- Enlace de pablozafra97 --> | | |
