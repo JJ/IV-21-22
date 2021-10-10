@@ -33,7 +33,7 @@ línea con tus iniciales.
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
-| https://github.com/alexespana/Proyecto-IV/pull/16 | 0.0.3 | |
+| https://github.com/alexespana/Proyecto-IV/pull/16 | 0.0.4 | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
