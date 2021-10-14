@@ -26,7 +26,7 @@ línea con tus iniciales.
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
-| https://github.com/modejota/StoragIV/pull/18 | 0.0.3 | |
+| https://github.com/modejota/StoragIV/pull/18 | 0.0.4 | |
 | https://github.com/noise-kngdm/music-matcher/pull/10 | 0.0.3 | ✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/agr8/Proyecto-IV/pull/19 | 0.0.4 | |
