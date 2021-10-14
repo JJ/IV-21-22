@@ -29,7 +29,7 @@ línea con tus iniciales.
 | https://github.com/modejota/StoragIV/pull/18 | 0.0.3 | |
 | https://github.com/noise-kngdm/music-matcher/pull/10 | 0.0.3 | ✓ |
 | <!-- Enlace de gomares --> | | |
-| https://github.com/agr8/Proyecto-IV/pull/19 | 0.0.3 | |
+| https://github.com/agr8/Proyecto-IV/pull/19 | 0.0.4 | |
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
