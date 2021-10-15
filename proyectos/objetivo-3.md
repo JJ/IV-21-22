@@ -22,7 +22,7 @@
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
 | <!-- Enlace de lentes4k --> | | |
-| https://github.com/joaquingv12/Proyecto-IV/pull/9  | 0.0.4 | |
+| https://github.com/joaquingv12/Proyecto-IV/pull/9  | 0.0.4 ||
 | <!-- Enlace de gomares --> | | |
 | <!-- Enlace de modejota --> | | |
 | <!-- Enlace de argelion14 --> | | |
