@@ -15,7 +15,7 @@ línea con tus iniciales.
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
-| https://github.com/jesusmarzor/Peluqueria/pull/15 | 0.0.6 | |
+| https://github.com/jesusmarzor/Peluqueria/pull/15 | 0.0.6 | | 
 | https://github.com/Paszser/ComparerApp/pull/11 | 0.0.4 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
