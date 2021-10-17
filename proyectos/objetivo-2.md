@@ -7,7 +7,7 @@ línea con tus iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de noise-kngdm --> | | |
+| [noise-kngdm](https://github.com/amerigal/proyecto_iv/pull/8) | 0.0.3 | |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | https://github.com/lentes4k/Proyecto-IV/pull/15 | 0.0.3 |✓ |
