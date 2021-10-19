@@ -19,7 +19,7 @@ línea con tus iniciales.
 | https://github.com/Paszser/ComparerApp/pull/11 | 0.0.4 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| https://github.com/JaimeGM96/Practica-IV/pull/11 | 0.0.3 | |
+| https://github.com/JaimeGM96/Practica-IV/pull/11 | 0.0.4 | |
 | <!-- Enlace de josevilchez247 --> | | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
