@@ -53,5 +53,5 @@
 | <!-- Enlace de paula1999 --> | | |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
-| <!-- Enlace de JAntonioVR --> | | |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/22 | 0.0.4 | |
 | <!-- Enlace de pablozafra97 --> | | |
