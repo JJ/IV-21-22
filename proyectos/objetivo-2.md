@@ -37,7 +37,7 @@ línea con tus iniciales.
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
-| https://github.com/joaquingv12/Proyecto-IV/pull/8  | 0.0.3 |  |
+| https://github.com/joaquingv12/Proyecto-IV/pull/21  | 0.0.4 |  |
 | <!-- Enlace de francisco3207 --> | | |
 | [amerigal](https://github.com/danifm1321/proyectoIV/pull/9) | 0.0.3 | |
 | https://github.com/Balrrach/IV-Proyecto/pull/14 | 0.0.6 | ✓ |
