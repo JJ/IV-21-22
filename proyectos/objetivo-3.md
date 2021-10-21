@@ -29,7 +29,7 @@
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
-| https://github.com/Antobio17/IV/pull/12 | 0.0.5 | |
+| https://github.com/Antobio17/IV/pull/12 | 0.0.6 | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
