@@ -25,7 +25,7 @@
 | https://github.com/lentes4k/cAppjon/pull/22 | 0.0.6 | |
 | https://github.com/joaquingv12/Proyecto-IV/pull/9 | 0.0.5 | |
 | <!-- Enlace de gomares --> | | |
-| <!-- Enlace de modejota --> | | |
+| https://github.com/modejota/StoragIV/pull/19 | 0.0.5 | |
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
