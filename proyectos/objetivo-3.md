@@ -6,7 +6,7 @@
 | <!-- Enlace de noise-kngdm --> | | |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
-| https://github.com/Paszser/ComparerApp/pull/20 | 0.0.5 | |
+| <!-- Enlace de Paszser --> | | |
 | https://github.com/Mapachana/Predictor-COVID/pull/9 | 0.0.5 | ✓ |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
@@ -35,7 +35,7 @@
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
-| <!-- Enlace de amerigal --> | | |
+| https://github.com/amerigal/proyecto_iv/pull/9 | 0.0.5 | |
 | https://github.com/Asmilex/IV/pull/8 | 0.0.10 |✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
