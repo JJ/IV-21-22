@@ -35,7 +35,7 @@
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
-| https://github.com/amerigal/proyecto_iv/pull/9 | 0.0.6 | |
+| https://github.com/amerigal/proyecto_iv/pull/9 | 0.0.7 | |
 | https://github.com/Asmilex/IV/pull/8 | 0.0.10 |✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
