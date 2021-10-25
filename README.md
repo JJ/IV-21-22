@@ -11,3 +11,5 @@ Repositorio para el material específico de cada clase, planificación y ejercic
   ficheros en [este directorio](proyectos). Lee [las
   instrucciones](proyectos/README.md) para hacerlo correctamente, y resolver
   conflictos.
+  
+  
