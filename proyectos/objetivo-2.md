@@ -30,7 +30,7 @@ línea con tus iniciales.
 | https://github.com/noise-kngdm/music-matcher/pull/10 | 0.0.3 | ✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/agr8/Proyecto-IV/pull/19 | 0.0.4 | ✓ |
-| <!-- Enlace de argelion14 --> | | |
+| https://github.com/Antobio17/IV/pull/10 | 0.0.3 | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
 | https://github.com/alexespana/Proyecto-IV/pull/16 | 0.0.4 | ✓ |
