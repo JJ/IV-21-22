@@ -12,4 +12,3 @@ Repositorio para el material específico de cada clase, planificación y ejercic
   instrucciones](proyectos/README.md) para hacerlo correctamente, y resolver
   conflictos.
   
-  
