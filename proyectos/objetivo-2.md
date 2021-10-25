@@ -9,7 +9,7 @@ línea con tus iniciales.
 |--------------------------------------------|---------|-----------|
 | [noise-kngdm](https://github.com/amerigal/proyecto_iv/pull/8) | 0.0.3 | ✓ |
 | <!-- Enlace de Esturillo98 --> | | |
-| https://github.com/argelion14/Sport-car/pull/14 | | |
+| https://github.com/argelion14/Sport-car/pull/14 | 0.0.3 | ✓ |
 | https://github.com/lentes4k/Proyecto-IV/pull/15 | 0.0.3 |✓ |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/19 | 0.0.4 | ✓ |
 | <!-- Enlace de eantoniocalo18 --> | | |
@@ -37,9 +37,9 @@ línea con tus iniciales.
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
-| https://github.com/joaquingv12/Proyecto-IV/pull/21  | 0.0.4 |  |
+| https://github.com/joaquingv12/Proyecto-IV/pull/21  | 0.0.4 | ✓ |
 | <!-- Enlace de francisco3207 --> | | |
-| [amerigal](https://github.com/danifm1321/proyectoIV/pull/9) | 0.0.3 | |
+| [amerigal](https://github.com/danifm1321/proyectoIV/pull/9) | 0.0.3 | ✓ |
 | https://github.com/Balrrach/IV-Proyecto/pull/14 | 0.0.6 | ✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
@@ -56,6 +56,6 @@ línea con tus iniciales.
 | <!-- Enlace de aleveji --> | | |
 | https://github.com/vlljuan99/gasolinapp/pull/15 | 0.0.3 | ✓ |
 | <!-- Enlace de xCyal --> | | |
-| <!-- Enlace de vlljuan99 --> | | |
+| [Pablont98](https://github.com/Pablont98/IV/pull/11) | 0.0.3 | |
 | https://github.com/josevilchez247/Odyssey/pull/18 | 0.0.4 | ✓ |
 | <!-- Enlace de pablozafra97 --> | | |

@@ -22,7 +22,7 @@
 | <!-- Enlace de DFolchA --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/5 | @danifm1321 |
 | https://github.com/agr8/Proyecto-IV/pull/11 | @modejota  |
-| https://github.com/Olasergiolas/Proyecto-IV/pull/5 | @agr8 |
+| https://github.com/Olasergiolas/Proyecto-IV/pull/5 | |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | @Paszser |
 | https://github.com/joaquingv12/Proyecto-IV/pull/5 | @jesusmarzor |
 | <!-- Enlace de gomares --> | | |
@@ -38,7 +38,7 @@
 | <!-- Enlace de francisco3207 --> | | |
 | [amerigal](https://github.com/amerigal/proyecto_iv/pull/5)  | @noise-kngdm |
 | [Asmilex](https://github.com/Asmilex/IV/pull/6) |  |
-| https://github.com/ismaelmontesinos/PracticaIV/pull/3 | |
+| https://github.com/ismaelmontesinos/PracticaIV/pull/3 | @agr8 |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/8 | @vlljuan99 |
 | https://github.com/Slowmybrosh/PracticaIV/pull/10 | @migueorg |
