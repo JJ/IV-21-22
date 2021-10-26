@@ -25,7 +25,7 @@
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 | |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | @Paszser |
 | https://github.com/joaquingv12/Proyecto-IV/pull/5 | @jesusmarzor |
-| <!-- Enlace de gomares --> | | |
+| [gomares](https://github.com/gomares/Proyecto_IV/pull/2) | Xileon310  |
 | https://github.com/modejota/IVProject/pull/13 | @lentes4k |
 | https://github.com/argelion14/proyecto-IV/pull/4 | @luisarostegui |
 | <!-- Enlace de juanmihdz --> | | |
@@ -42,7 +42,7 @@
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/8 | @vlljuan99 |
 | https://github.com/Slowmybrosh/PracticaIV/pull/10 | @migueorg |
-| <!-- Enlace de sorozcov --> | | |
+| https://github.com/sorozcov/proyecto-iv-ugr/pull/7 | @gomares |
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/Xileon310/IV-Project/pull/12) | |
 | [Parka015](https://github.com/Parka015/IV-Proyecto/pull/6)| @nachocarher |

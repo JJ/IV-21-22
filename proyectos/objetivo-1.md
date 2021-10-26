@@ -28,7 +28,7 @@ línea con tus iniciales.
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 | 0.0.2 |✓ |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | 0.0.2 |✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/5 | 0.0.2 |✓ |
-| [gomares](https://github.com/gomares/Proyecto_IV/pull/2) | 0.0.2 | |
+| [gomares](https://github.com/gomares/Proyecto_IV/pull/2) | 0.0.2 |✓ |
 | https://github.com/modejota/IVProject/pull/13 | 0.0.2 | ✓ |
 | https://github.com/argelion14/proyecto-IV/pull/4 |0.0.2 | ✓ |
 | <!-- Enlace de juanmihdz --> | | |
