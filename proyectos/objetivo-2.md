@@ -19,7 +19,7 @@ línea con tus iniciales.
 | https://github.com/Paszser/ComparerApp/pull/11 | 0.0.4 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| https://github.com/JaimeGM96/Practica-IV/pull/11 | 0.0.4 | |
+| https://github.com/JaimeGM96/Practica-IV/pull/11 | 0.0.4 | ✓ |
 | https://github.com/venrra/apiTrainer/pull/11 | 0.0.3 | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
@@ -50,12 +50,12 @@ línea con tus iniciales.
 | <!-- Enlace de Xileon310 --> | | |
 | <!-- Enlace de Parka015 --> | | |
 | <!-- Enlace de edusegrich --> | | |
-| <!-- Enlace de LuisSS20 --> | | |
+| [LuisSS20](https://github.com/aleveji/BuscaRecetas/pull/9) | 0.0.2 | ✓ |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
 | https://github.com/vlljuan99/gasolinapp/pull/15 | 0.0.3 | ✓ |
 | <!-- Enlace de xCyal --> | | |
-| [Pablont98](https://github.com/Pablont98/IV/pull/11) | 0.0.3 | |
+| [Pablont98](https://github.com/Pablont98/IV/pull/11) | 0.0.3 | ✓ |
 | https://github.com/josevilchez247/Odyssey/pull/18 | 0.0.4 | ✓ |
 | <!-- Enlace de pablozafra97 --> | | |

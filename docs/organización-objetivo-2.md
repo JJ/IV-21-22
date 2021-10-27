@@ -44,12 +44,12 @@
 | https://github.com/Slowmybrosh/PracticaIV/pull/10 | @migueorg |
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/7 | @gomares |
 | <!-- Enlace de jlortega00 --> | | |
-| [Xileon310](https://github.com/Xileon310/IV-Project/pull/12) | |
+| [Xileon310](https://github.com/Xileon310/IV-Project/pull/12) | @albertotc99 |
 | [Parka015](https://github.com/Parka015/IV-Proyecto/pull/6)| @nachocarher |
 | [edusegrich](https://github.com/edusegrich/OpoTests/pull/10) | @aleveji |
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/5) | ismaelmontesinos |
 | <!-- Enlace de juanfran00 --> | | |
-| https://github.com/albertotc99/MercadoClubesPro/pull/5 | |
+| https://github.com/albertotc99/MercadoClubesPro/pull/5 | edusegrich |
 | https://github.com/aleveji/BuscaRecetas/pull/4 | @luisss20 |
 | [paula1999](https://github.com/paula1999/IV/pull/5) | @Olasergiolas |
 | <!-- Enlace de xCyal --> | | |
