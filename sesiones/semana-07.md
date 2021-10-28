@@ -11,17 +11,17 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
      🚧 🚧 🚧
      ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
      ❌ ❌ ❌ ❌ ❌
- 1 🧮:  7%🚧 63%✅ 28%❌ ⇒ 
-     🚧 🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 2 🧮:  3%🚧 36%✅ 59%❌ ⇒ 
-     🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 3 🧮:  5%🚧 23%✅ 71%❌ ⇒ 
+ 1 🧮:  5%🚧 65%✅ 28%❌ ⇒ 
      🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 2 🧮:  5%🚧 38%✅ 55%❌ ⇒ 
+     🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 3 🧮:  3%🚧 25%✅ 71%❌ ⇒ 
+     🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
      ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
 ```
 
@@ -41,12 +41,11 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
   * *Siempre* se trabaja hacia un producto mínimamente viable, así que ese issue debe estar en el milestone correspondiente.
 * Errores frecuentes objetivo 2
   * Siempre tiene que haber una "pista" que lleve desde la HU hasta el código que la lleva a cabo y viceversa.
-  
+
 ## Material para la clase
 
-
-## Material adicional
-
+* [Introducción a Docker](http://jj.github.io/IV/documentos/temas/Contenedores)
+* [Objetivo 5: Contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker)
 
 ## Siguientes sesiones
 

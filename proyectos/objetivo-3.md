@@ -50,7 +50,7 @@
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
-| https://github.com/paula1999/Tune-in/pull/14 | 0.0.6 | |
+| https://github.com/paula1999/Tune-in/pull/14 | 0.0.6 |  ✓ |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/22 | 0.0.6 | ✓ |
