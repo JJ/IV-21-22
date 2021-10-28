@@ -22,7 +22,7 @@
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
-| https://github.com/lentes4k/cAppjon/pull/25 | 0.1.0 | |
+| https://github.com/lentes4k/cAppjon/pull/25 | 0.0.11 | |
 | <!-- Enlace de joaquingv12 --> | | |
 | <!-- Enlace de gomares --> | | |
 | <!-- Enlace de modejota --> | | |
