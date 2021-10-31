@@ -53,7 +53,7 @@ línea con tus iniciales.
 | [LuisSS20](https://github.com/aleveji/BuscaRecetas/pull/9) | 0.0.2 | ✓ |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
-| <!-- Enlace de aleveji --> | | |
+| https://github.com/edusegrich/OpoTests/pull/19 | 0.0.3 | |
 | https://github.com/vlljuan99/gasolinapp/pull/15 | 0.0.3 | ✓ |
 | <!-- Enlace de xCyal --> | | |
 | [Pablont98](https://github.com/Pablont98/IV/pull/11) | 0.0.3 | ✓ |
