@@ -21,7 +21,7 @@ línea con tus iniciales.
 | <!-- Enlace de MarinoFajardo --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/11 | 0.0.4 | ✓ |
 | https://github.com/venrra/apiTrainer/pull/11 | 0.0.3 | |
-| https://github.com/arguellesm/faux/pull/8 | 0.0.3 | |
+| <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
@@ -44,7 +44,7 @@ línea con tus iniciales.
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Mapachana/Proyecto-IV/pull/8 | 0.0.3 | ✓ |
-| <!-- Enlace de Slowmybrosh --> | | |
+| https://github.com/arguellesm/faux/pull/8 | 0.0.3 | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/gomares/Proyecto_IV/pull/9) | 0.0.5 | |
