@@ -21,7 +21,7 @@
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
-| <!-- Enlace de Olasergiolas --> | | |
+| https://github.com/Olasergiolas/Go-AutoEQ/pull/33 | 0.0.4 | |
 | https://github.com/lentes4k/cAppjon/pull/25 | 0.0.11 | ✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/23 | 0.0.7 | ✓ |
 | <!-- Enlace de gomares --> | | |
