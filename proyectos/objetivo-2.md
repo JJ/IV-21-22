@@ -21,7 +21,7 @@ línea con tus iniciales.
 | <!-- Enlace de MarinoFajardo --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/11 | 0.0.4 | ✓ |
 | https://github.com/venrra/apiTrainer/pull/11 | 0.0.3 | |
-| <!-- Enlace de arguellesm --> | | |
+| [arguellesm](https://github.com/migueorg/SearchCulture/pull/10) | 0.0.3 | |
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
