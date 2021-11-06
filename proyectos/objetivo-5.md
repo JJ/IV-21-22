@@ -1,5 +1,4 @@
-# Objetivo 4
-
+# Objetivo 5
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
@@ -12,7 +11,7 @@
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | <!-- Enlace de Balrrach --> | | |
-| https://github.com/alexespana/BarPower/pull/24 | 0.0.6 | ✓ |
+| <!-- Enlace de alexespana --> | | |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
@@ -21,9 +20,9 @@
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
-| https://github.com/Olasergiolas/Go-AutoEQ/pull/33 | 0.0.4 | |
-| https://github.com/lentes4k/cAppjon/pull/25 | 0.0.11 | ✓ |
-| https://github.com/joaquingv12/Proyecto-IV/pull/23 | 0.0.7 | ✓ |
+| <!-- Enlace de Olasergiolas --> | | |
+| <!-- Enlace de lentes4k --> | | |
+| <!-- Enlace de joaquingv12 --> | | |
 | <!-- Enlace de gomares --> | | |
 | <!-- Enlace de modejota --> | | |
 | <!-- Enlace de argelion14 --> | | |
@@ -36,10 +35,10 @@
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
-| https://github.com/Asmilex/IV/pull/18 | 0.1.2 | ✓ |
+| <!-- Enlace de Asmilex --> | | |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
-| https://github.com/Pablont98/IV/pull/19 | 0.0.6 | |
+| <!-- Enlace de Pablont98 --> | | |
 | <!-- Enlace de Slowmybrosh --> | | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
