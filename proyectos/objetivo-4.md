@@ -7,7 +7,7 @@
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | <!-- Enlace de Paszser --> | | |
-| <!-- Enlace de Mapachana --> | | |
+| https://github.com/Mapachana/Predictor-COVID/pull/13 | 0.0.6 | |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
