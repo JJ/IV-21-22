@@ -50,7 +50,7 @@
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
-| <!-- Enlace de paula1999 --> | | |
+| https://github.com/paula1999/Tune-in/pull/16 | 0.0.7 | |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
 | <!-- Enlace de JAntonioVR --> | | |
