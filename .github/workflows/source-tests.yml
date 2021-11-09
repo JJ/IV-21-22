@@ -21,6 +21,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   ops-on-source:
     runs-on: ubuntu-latest
+    outputs:
+      docker_user: ${{steps.source-tests.outputs.docker_user}}
     needs: ops-on-pr
     env:
       user: ${{ needs.ops-on-pr.outputs.user }}
@@ -35,9 +37,15 @@ jobs:
           repository: ${{env.checkout_repo}}
           ref: ${{env.rama}}
       - name: Tests sobre fuentes
+        id: source-tests
         with:
           fase: ${{env.objetivo}}
         uses: JJ/grading-source-tests-gh-action@main
+      - name: Testea contenedor
+        if: ${{env.objetivo >= 5 }}
+        env:
+          CONTAINER: ${{ env.docker_user }}/${{ env.repo }}
+        run: docker run -t -v `pwd`:/test ${CONTAINER,,}
   ops-using-API:
     runs-on: ubuntu-latest
     needs: ops-on-pr

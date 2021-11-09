@@ -7,7 +7,7 @@
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | <!-- Enlace de Paszser --> | | |
-| <!-- Enlace de Mapachana --> | | |
+| https://github.com/Mapachana/Predictor-COVID/pull/13 | 0.0.6 | |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
@@ -50,8 +50,8 @@
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
-| <!-- Enlace de paula1999 --> | | |
+| https://github.com/paula1999/Tune-in/pull/16 | 0.0.7 | |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
-| <!-- Enlace de JAntonioVR --> | | |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/31 | 0.0.7 | |
 | <!-- Enlace de pablozafra97 --> | | |
