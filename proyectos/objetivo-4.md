@@ -33,7 +33,7 @@
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
-| https://github.com/jesusmarzor/Peluqueria/pull/33 | 0.0.7 | |
+| https://github.com/jesusmarzor/Peluqueria/pull/38 | 0.0.8 | |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
 | https://github.com/Asmilex/IV/pull/18 | 0.1.2 | ✓ |
