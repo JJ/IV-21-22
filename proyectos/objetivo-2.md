@@ -52,7 +52,7 @@ línea con tus iniciales.
 | <!-- Enlace de edusegrich --> | | |
 | [LuisSS20](https://github.com/aleveji/BuscaRecetas/pull/9) | 0.0.2 | ✓ |
 | <!-- Enlace de juanfran00 --> | | |
-| [Albertotc99](https://github.com/Xileon310/IV-Project/pull/22) | 0.0.3 | |
+| [Albertotc99](https://github.com/Xileon310/IV-Project/pull/22) | 0.0.4 | |
 | https://github.com/edusegrich/OpoTests/pull/19 | 0.0.3 | |
 | https://github.com/vlljuan99/gasolinapp/pull/15 | 0.0.3 | ✓ |
 | <!-- Enlace de xCyal --> | | |
