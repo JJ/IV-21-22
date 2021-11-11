@@ -11,7 +11,7 @@
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
-| https://github.com/Balrrach/IV-Proyecto/pull/19 | 0.0.10 | |
+| https://github.com/Balrrach/IV-Proyecto/pull/19 | 0.0.11 | |
 | https://github.com/alexespana/BarPower/pull/24 | 0.0.6 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
