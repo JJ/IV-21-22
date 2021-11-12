@@ -19,9 +19,9 @@ línea con tus iniciales.
 | https://github.com/Paszser/ComparerApp/pull/11 | 0.0.4 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| https://github.com/JaimeGM96/Practica-IV/pull/11 | 0.0.4 | |
-| https://github.com/venrra/apiTrainer/pull/11 | 0.0.3 | |
-| <!-- Enlace de arguellesm --> | | |
+| https://github.com/JaimeGM96/Practica-IV/pull/11 | 0.0.4 | ✓ |
+| https://github.com/venrra/apiTrainer/pull/11 | 0.0.3 | ✓ |
+| [arguellesm](https://github.com/migueorg/SearchCulture/pull/10) | 0.0.3 | |
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
@@ -36,7 +36,7 @@ línea con tus iniciales.
 | https://github.com/alexespana/Proyecto-IV/pull/16 | 0.0.4 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
-| <!-- Enlace de migueorg --> | | |
+| https://github.com/Slowmybrosh/DietApp/pull/19 | 0.0.3 | |
 | https://github.com/joaquingv12/Proyecto-IV/pull/21  | 0.0.4 | ✓ |
 | <!-- Enlace de francisco3207 --> | | |
 | [amerigal](https://github.com/danifm1321/proyectoIV/pull/9) | 0.0.3 | ✓ |
@@ -44,18 +44,18 @@ línea con tus iniciales.
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Mapachana/Proyecto-IV/pull/8 | 0.0.3 | ✓ |
-| <!-- Enlace de Slowmybrosh --> | | |
+| https://github.com/arguellesm/faux/pull/8 | 0.0.3 | ✓ |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
-| <!-- Enlace de Xileon310 --> | | |
-| <!-- Enlace de Parka015 --> | | |
-| <!-- Enlace de edusegrich --> | | |
-| <!-- Enlace de LuisSS20 --> | | |
+| [Xileon310](https://github.com/gomares/Proyecto_IV/pull/9) | 0.0.5 | |
+| [Parka015](https://github.com/NachoCarher/MyHams/pull/17) | 0.0.3 | ✓ |
+| https://github.com/albertotc99/MercadoClubesPro/pull/13 | 0.0.4 | ✓ |
+| [LuisSS20](https://github.com/aleveji/BuscaRecetas/pull/9) | 0.0.2 | ✓ |
 | <!-- Enlace de juanfran00 --> | | |
-| <!-- Enlace de Albertotc99 --> | | |
-| <!-- Enlace de aleveji --> | | |
+| [Albertotc99](https://github.com/Xileon310/IV-Project/pull/22) | 0.0.4 | |
+| https://github.com/edusegrich/OpoTests/pull/19 | 0.0.3 | |
 | https://github.com/vlljuan99/gasolinapp/pull/15 | 0.0.3 | ✓ |
 | <!-- Enlace de xCyal --> | | |
-| [Pablont98](https://github.com/Pablont98/IV/pull/11) | 0.0.3 | |
+| [Pablont98](https://github.com/Pablont98/IV/pull/11) | 0.0.3 | ✓ |
 | https://github.com/josevilchez247/Odyssey/pull/18 | 0.0.4 | ✓ |
 | <!-- Enlace de pablozafra97 --> | | |

@@ -2,7 +2,8 @@
   "auth" : "github:JJ",
   "authors" : ["JJ Merelo"],
   "depends" : [
-    "IO::Glob"
+      "IO::Glob",
+      "Text::CSV"
   ],
   "description" : "Scripts para ayudar con la asignatura IV",
   "license" : "Artistic-2.0",

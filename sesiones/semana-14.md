@@ -1,4 +1,4 @@
-# Semana del 6 de diciembre
+# Semana del 13 de diciembre
 
 
 ## Objetivos a cubrir en la sesión

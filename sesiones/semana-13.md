@@ -1,4 +1,4 @@
-# Semana del 29 de noviembre
+# Semana del 6 de diciembre
 
 
 ## Objetivos a cubrir en la sesión

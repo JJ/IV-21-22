@@ -5,17 +5,17 @@
 |--------------------------------------------|---------|-----------|
 | [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/14) | 0.0.5 | ✓ |
 | <!-- Enlace de Esturillo98 --> | | |
-| <!-- Enlace de LuisArostegui --> | | |
-| https://github.com/Paszser/ComparerApp/pull/20 | 0.0.5 | |
+| [LuisArostegui](https://github.com/LuisArostegui/MyWallet/pull/12) | 0.0.7 | |
+| https://github.com/Paszser/ComparerApp/pull/20 | 0.0.5 | ✓ |
 | https://github.com/Mapachana/Predictor-COVID/pull/9 | 0.0.5 | ✓ |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
-| <!-- Enlace de Balrrach --> | | |
+| https://github.com/Balrrach/IV-Proyecto/pull/16 | 0.0.9 | ✓ |
 | https://github.com/alexespana/BarPower/pull/20 | 0.0.5 |✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| <!-- Enlace de danifm1321 --> | | |
+| https://github.com/danifm1321/proyectoIV/pull/10  | 0.0.4 |✓  |
 | <!-- Enlace de josevilchez247 --> | | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
@@ -33,7 +33,7 @@
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
-| <!-- Enlace de jesusmarzor --> | | |
+| https://github.com/jesusmarzor/Peluqueria/pull/18 | 0.0.6 |✓ |
 | <!-- Enlace de francisco3207 --> | | |
 | https://github.com/amerigal/proyecto_iv/pull/9 | 0.0.7 | ✓|
 | https://github.com/Asmilex/IV/pull/8 | 0.0.10 |✓ |
@@ -50,7 +50,7 @@
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
-| https://github.com/paula1999/Tune-in/pull/14 | 0.0.6 | |
+| https://github.com/paula1999/Tune-in/pull/14 | 0.0.6 |  ✓ |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/22 | 0.0.6 | ✓ |

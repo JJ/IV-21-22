@@ -4,6 +4,27 @@
 etiqueta *hacktoberfest* en todo GitHub y referenciarlos al hacer los
 pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
+## Estado de los objetivos
+
+```
+ 0 🧮:  5%🚧 84%✅  9%❌ ⇒ 
+     🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌
+ 1 🧮:  5%🚧 65%✅ 28%❌ ⇒ 
+     🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 2 🧮:  5%🚧 38%✅ 55%❌ ⇒ 
+     🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 3 🧮:  3%🚧 25%✅ 71%❌ ⇒ 
+     🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
+
 ## Objetivos a cubrir en la sesión
 
 1. Entender cómo se encajan los desarrollos relacionados con la infraestructura dentro de entornos ágiles.
@@ -20,12 +41,15 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
   * *Siempre* se trabaja hacia un producto mínimamente viable, así que ese issue debe estar en el milestone correspondiente.
 * Errores frecuentes objetivo 2
   * Siempre tiene que haber una "pista" que lleve desde la HU hasta el código que la lleva a cabo y viceversa.
-  
+
 ## Material para la clase
 
-
-## Material adicional
-
+* [Introducción a Docker](http://jj.github.io/IV/documentos/temas/Contenedores)
+* [Objetivo 5:
+  Contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker)
+* Ejemplos de contenedores:
+  [Raku](https://hub.docker.com/r/jjmerelo/alpine-raku),
+  [iv-test](https://hub.docker.com/r/jjmerelo/iv-test).
 
 ## Siguientes sesiones
 
