@@ -42,7 +42,7 @@ línea con tus iniciales.
 | https://github.com/amerigal/proyecto_iv/pull/1 | 0.0.2 |✓ |
 | https://github.com/Asmilex/IV/pull/1 | 0.0.2 | ✓ |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/13 |0.0.2 |✓ |
-| https://github.com/morevi/jobcontrol/pull/1 | 0.0.1 | |
+| https://github.com/morevi/jobcontrol/pull/1 | 0.0.2 | |
 | https://github.com/Pablont98/IV/pull/2 | 0.0.1 | ✓ |
 | https://github.com/Slowmybrosh/PracticaIV/pull/1 | 0.0.1 |✓ |
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/1 | 0.0.2 |✓ |
