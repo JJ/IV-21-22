@@ -26,7 +26,7 @@
 | https://github.com/joaquingv12/Proyecto-IV/pull/9 | 0.0.5 |✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/StoragIV/pull/19 | 0.0.7 | ✓ |
-| https://github.com/argelion14/Sport-car/pull/16 | 0.0.5 | |
+| https://github.com/argelion14/Sport-car/pull/16 | 0.0.6 | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
 | https://github.com/Antobio17/IV/pull/12 | 0.0.7 | ✓ |
