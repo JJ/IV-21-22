@@ -40,7 +40,7 @@
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/14 | 0.0.5 |✓ |
-| <!-- Enlace de Slowmybrosh --> | | |
+| https://github.com/Slowmybrosh/DietApp/pull/20 | 0.0.4 | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | <!-- Enlace de Xileon310 --> | | |
