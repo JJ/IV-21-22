@@ -24,7 +24,7 @@ línea con tus iniciales.
 | [arguellesm](https://github.com/migueorg/SearchCulture/pull/10) | 0.0.3 | |
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
-| [agr8](https://github.com/ismaelmontesinos/InmuVenta/pull/21)| 0.0.4| |
+| [agr8](https://github.com/ismaelmontesinos/InmuVenta/pull/21)| 0.0.4 | |
 | https://github.com/paula1999/Tune-in/pull/13 | 0.0.4 | ✓ |
 | https://github.com/modejota/StoragIV/pull/18 | 0.0.3 | ✓ |
 | https://github.com/noise-kngdm/music-matcher/pull/10 | 0.0.3 | ✓ |
