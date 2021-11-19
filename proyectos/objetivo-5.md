@@ -10,7 +10,7 @@
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
-| https://github.com/Balrrach/IV-Proyecto/pull/22 | 0.0.14 | |
+| https://github.com/Balrrach/IV-Proyecto/pull/22 | 0.0.15 | |
 | https://github.com/alexespana/barpower/pull/31 | 0.0.7 | |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
