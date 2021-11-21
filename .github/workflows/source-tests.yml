@@ -62,7 +62,7 @@ jobs:
         if: ${{env.objetivo >= 2}}
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
-          script:
+          script: |
             const {all_good, sorry } = require("./lib/mensajes.js")
             const milestone = process.env.pr_milestone
             if ( pr_milestone === null ) {
