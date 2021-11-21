@@ -22,7 +22,7 @@
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
 | https://github.com/lentes4k/cAppjon/pull/28 | 0.0.12 | |
-| https://github.com/joaquingv12/car_workshop-maximizer/pull/32 | 0.0.6 | |
+| https://github.com/joaquingv12/car_workshop-maximizer/pull/32 | 0.0.6 | ✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/StoragIV/pull/27 | 0.0.9 | ✓ |
 | <!-- Enlace de argelion14 --> | | |

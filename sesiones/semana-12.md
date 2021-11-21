@@ -2,9 +2,9 @@
 
 
 ## Objetivos a cubrir en la sesión
+1. Entender el concepto de servicio REST.
+2. Entender cómo se testean los servicios REST.
 
-1. Entender el concepto de inyección de dependencias.
-2. Entender el concepto de mocks.
 
 ## Contenidos
 

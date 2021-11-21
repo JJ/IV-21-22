@@ -3,8 +3,8 @@
 
 ## Objetivos a cubrir en la sesión
 
-1. Entender el concepto de servicio REST.
-2. Entender cómo se testean los servicios REST.
+1. Entender el concepto de inyección de dependencias.
+2. Entender el concepto de mocks.
 
 ## Contenidos
 
@@ -19,10 +19,14 @@ Errores frecuentes objetivo 5:
 
 ## Material para la clase
 
+* [Descripción del objetivo a
+  cubrir](http://jj.github.io/IV/documentos/proyecto/7.Servicios)
+
+* [Presentación](https://jj.github.io/IV/preso/servicios.html)
 
 ## Material adicional
 
 
 ## Siguientes sesiones
 
-[Octava semana](semana-08.md)
+[Duodécima semana](semana-12.md)
