@@ -44,7 +44,7 @@ línea con tus iniciales.
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Mapachana/Proyecto-IV/pull/8 | 0.0.3 | ✓ |
 | https://github.com/arguellesm/faux/pull/8 | 0.0.3 | ✓ |
-| https://github.com/eantoniocalo18/IV/pull/20 | 0.0.3 | |
+| https://github.com/eantoniocalo18/IV/pull/20 | 0.0.3 ||
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/gomares/Proyecto_IV/pull/13) | 0.0.5 | |
 | [Parka015](https://github.com/NachoCarher/MyHams/pull/17) | 0.0.3 | ✓ |
