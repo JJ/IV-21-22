@@ -45,7 +45,7 @@
 | <!-- Enlace de Xileon310 --> | | |
 | [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/9) | 0.0.6 |✓ |
 | <!-- Enlace de edusegrich --> | | |
-| <!-- Enlace de LuisSS20 --> | | |
+| [LuisSS20](https://github.com/LuisSS20/DontWait/pull/9) | 0.0.2 | |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | https://github.com/aleveji/BuscaRecetas/pull/11 | 0.0.4 |✓ |
