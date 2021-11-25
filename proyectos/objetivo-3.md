@@ -5,7 +5,7 @@
 |--------------------------------------------|---------|-----------|
 | [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/14) | 0.0.5 | ✓ |
 | <!-- Enlace de Esturillo98 --> | | |
-| [LuisArostegui](https://github.com/LuisArostegui/MyWallet/pull/12) | 0.0.7 | |
+| [LuisArostegui](https://github.com/LuisArostegui/MyWallet/pull/12) | 0.0.7 |✓ |
 | https://github.com/Paszser/ComparerApp/pull/20 | 0.0.5 | ✓ |
 | https://github.com/Mapachana/Predictor-COVID/pull/9 | 0.0.5 | ✓ |
 | <!-- Enlace de eantoniocalo18 --> | | |
@@ -17,7 +17,7 @@
 | <!-- Enlace de MarinoFajardo --> | | |
 | https://github.com/danifm1321/proyectoIV/pull/10  | 0.0.4 |✓  |
 | <!-- Enlace de josevilchez247 --> | | |
-| <!-- Enlace de arguellesm --> | | |
+| https://github.com/arguellesm/faux/pull/11 | 0.0.4 | |
 | <!-- Enlace de DFolchA --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/13 | 0.0.6 | |
 | <!-- Enlace de agr8 --> | | |
@@ -43,14 +43,14 @@
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | <!-- Enlace de Xileon310 --> | | |
-| <!-- Enlace de Parka015 --> | | |
+| [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/9) | 0.0.6 |✓ |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
-| <!-- Enlace de aleveji --> | | |
+| https://github.com/aleveji/BuscaRecetas/pull/11 | 0.0.4 |✓ |
 | https://github.com/paula1999/Tune-in/pull/14 | 0.0.6 |  ✓ |
 | <!-- Enlace de xCyal --> | | |
-| <!-- Enlace de vlljuan99 --> | | |
+| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/21) | 0.0.2 | |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/22 | 0.0.6 | ✓ |
 | <!-- Enlace de pablozafra97 --> | | |

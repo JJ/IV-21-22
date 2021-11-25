@@ -6,7 +6,7 @@
 | <!-- Enlace de noise-kngdm --> | | |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
-| <!-- Enlace de Paszser --> | | |
+| https://github.com/Paszser/ComparerApp/pull/21 | 0.0.6 | |
 | https://github.com/Mapachana/Predictor-COVID/pull/13 | 0.0.6 | ✓ |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
@@ -15,7 +15,7 @@
 | https://github.com/alexespana/BarPower/pull/24 | 0.0.6 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| https://github.com/danifm1321/proyectoIV/pull/12 | 0.0.5 | |
+| https://github.com/danifm1321/proyectoIV/pull/12 | 0.0.5 |✓ |
 | <!-- Enlace de josevilchez247 --> | | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
@@ -29,17 +29,17 @@
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
-| <!-- Enlace de Antobio17 --> | | |
+| https://github.com/Antobio17/IV/pull/28 | 0.1.1 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de migueorg --> | | |
-| https://github.com/jesusmarzor/Peluqueria/pull/38 | 0.0.8 | |
+| https://github.com/jesusmarzor/Peluqueria/pull/38 | 0.0.8 |✓ |
 | <!-- Enlace de francisco3207 --> | | |
-| https://github.com/amerigal/gestor-recibos/pull/20 | 0.0.8 | |
+| https://github.com/amerigal/gestor-recibos/pull/20 | 0.0.8 |✓ |
 | https://github.com/Asmilex/IV/pull/18 | 0.1.2 | ✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/23 | 0.0.6 | ✓ |
-| <!-- Enlace de Slowmybrosh --> | | |
+| https://github.com/Slowmybrosh/DietApp/pull/27 | 0.0.5 | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | <!-- Enlace de Xileon310 --> | | |

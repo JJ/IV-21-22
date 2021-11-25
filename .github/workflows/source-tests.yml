@@ -13,6 +13,7 @@ jobs:
       checkout_repo: ${{steps.pr_info.outputs.checkout_repo}}
       objetivo: ${{steps.pr_info.outputs.objetivo}}
       rama: ${{steps.pr_info.outputs.rama}}
+      pr_milestone: ${{steps.pr_info.outputs.pr_milestone}}
     steps:
       - id: pr_info
         name: Comprueba y analiza
@@ -53,9 +54,23 @@ jobs:
       user: ${{ needs.ops-on-pr.outputs.user }}
       repo: ${{ needs.ops-on-pr.outputs.repo }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
+      pr_milestone: ${{ needs.ops-on-pr.outputs.pr_milestone }}
     steps:
       - name: Descarga fuente
         uses: actions/checkout@v2
+      - name: Comprueba que el PR está asignado a un milestone
+        uses: actions/github-script@v4
+        if: ${{env.objetivo >= 2}}
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const {all_good, sorry } = require("./lib/mensajes.js")
+            const milestone = process.env.pr_milestone
+            if ( milestone === "" ) {
+                core.setFailed( sorry( "El PR tiene que estar asignado a un milestone") )
+            } else {
+                console.log( all_good(`PR asignado al milestone ${milestone}`))
+            }
       - name: Comprueba hitos desde el 1
         uses: actions/github-script@v4
         if: ${{env.objetivo >= 1}}
@@ -138,4 +153,40 @@ jobs:
                     }
                 }
               })
+            }
+      - name: Comprueba el estado de CI
+        if: ${{env.objetivo >= 6}}
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const {objetivo_msg, all_good, sorry } = require("./lib/mensajes.js")
+            const { user, repo } = process.env
+            console.log( objetivo_msg(6) )
+            console.log( "» Analizando repo " + repo + " del usuario 🔥" + user )
+            const checks_before_pag =
+                    await github.checks.listForRef.endpoint.merge(
+                        { owner: user,
+                          repo: repo,
+                          ref: 'HEAD',
+                          status: 'completed'
+                        })
+            const checks = await github.paginate( checks_before_pag)
+            console.log( all_good("✅ Hay " + checks.length + " sistemas de CI configurados"))
+
+            if ( checks.length < 1 ) {
+                    core.setFailed( sorry("No hay suficientes sistemas de CI configurados"))
+            }
+            const green_checks = checks.filter( check => check.conclusion === "success" )
+            if ( !green_checks.length ) {
+              core.setFailed(sorry("No hay al menos un CI que esté en verde"))
+            } else {
+              console.log( all_good("Hay " + green_checks.length + " que pasa(n) los tests correctamente" ))
+            }
+            const mandatory_checks_green = green_checks.filter( check => check.app.slug === "travis-ci" || check.app.slug === "github-action" || check.app.slug === "circleci-checks" )
+
+            if ( mandatory_checks_green.length == 0 ) {
+              core.setFailed(sorry("No hay ninguno de los CIs autorizados funcionando con el último commit"))
+            } else {
+              console.log( all_good("Hay alguno de los autorizados funcionando" ))
             }
