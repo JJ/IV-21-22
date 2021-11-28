@@ -38,7 +38,7 @@
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/recetas-iv/pull/38 | 0.0.8 | ✓ |
-| https://github.com/Slowmybrosh/DietApp/pull/36/ | 0.0.4 | |
+| https://github.com/Slowmybrosh/DietApp/pull/36 | 0.0.5 | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | <!-- Enlace de Xileon310 --> | | |
