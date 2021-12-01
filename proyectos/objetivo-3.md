@@ -40,7 +40,7 @@
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/14 | 0.0.5 |✓ |
 | https://github.com/Slowmybrosh/DietApp/pull/20 | 0.0.4 |✓ |
-| https://github.com/sorozcov/proyecto-iv-ugr/pull/15 | 0.0.4  | |
+| https://github.com/sorozcov/proyecto-iv-ugr/pull/15 | 0.0.4 | |
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/Xileon310/IV-Project/pull/26) | 0.0.6 | ✓ |
 | [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/9) | 0.0.6 |✓ |
