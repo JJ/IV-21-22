@@ -48,7 +48,7 @@
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
-| <!-- Enlace de aleveji --> | | |
+| https://github.com/aleveji/BuscaRecetas/pull/13 | 0.0.5 | |
 | https://github.com/paula1999/Tune-in/pull/16 | 0.0.7 | ✓ |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
