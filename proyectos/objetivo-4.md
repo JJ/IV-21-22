@@ -43,12 +43,12 @@
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | <!-- Enlace de Xileon310 --> | | |
-| <!-- Enlace de Parka015 --> | | |
+| [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/14)| 0.0.8 | |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
-| <!-- Enlace de aleveji --> | | |
+| https://github.com/aleveji/BuscaRecetas/pull/13 | 0.0.5 | |
 | https://github.com/paula1999/Tune-in/pull/16 | 0.0.7 | ✓ |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |

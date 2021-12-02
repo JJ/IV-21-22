@@ -31,7 +31,11 @@
 | https://github.com/Antobio17/IV/pull/35 | 0.1.4 | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de migueorg --> | | |
+<<<<<<< HEAD
 | https://github.com/jesusmarzor/Peluqueria/pull/46 | 0.0.13 | |
+=======
+| https://github.com/jesusmarzor/Peluqueria/pull/46 | 0.0.13 | ✓ |
+>>>>>>> aefdfbb717eda052af6b2f2244f2962f66411595
 | <!-- Enlace de francisco3207 --> | | |
 | https://github.com/amerigal/gestor-recibos/pull/28 | 0.0.9 | ✓ |
 | https://github.com/Asmilex/IV/pull/23  | 0.1.9 | ✓ |

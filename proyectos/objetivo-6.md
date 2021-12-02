@@ -11,7 +11,7 @@
 | <!-- Enlace de NachoCarher -->                                |         |           |
 | <!-- Enlace de C L A -->                                      |         |           |
 | <!-- Enlace de Balrrach -->                                   |         |           |
-| https://github.com/alexespana/barpower/pull/37                | 0.0.9   |           |
+| https://github.com/alexespana/barpower/pull/37                | 0.0.9   |   ✓       |
 | <!-- Enlace de Javierexmar -->                                |         |           |
 | <!-- Enlace de MarinoFajardo -->                              |         |           |
 | <!-- Enlace de danifm1321 -->                                 |         |           |
@@ -22,7 +22,7 @@
 | <!-- Enlace de agr8 -->                                       |         |           |
 | <!-- Enlace de Olasergiolas -->                               |         |           |
 | <!-- Enlace de lentes4k -->                                   |         |           |
-| https://github.com/joaquingv12/car_workshop-maximizer/pull/40 | 0.0.8   |           |
+| https://github.com/joaquingv12/car_workshop-maximizer/pull/40 | 0.0.8   |  ✓        |
 | <!-- Enlace de gomares -->                                    |         |           |
 | https://github.com/modejota/StoragIV/pull/29                  | 0.0.11  | ✓         |
 | <!-- Enlace de argelion14 -->                                 |         |           |
@@ -37,8 +37,8 @@
 | https://github.com/Asmilex/IV/pull/27                         | 0.2.2   |           |
 | <!-- Enlace de ismaelmontesinos -->                           |         |           |
 | <!-- Enlace de morevi -->                                     |         |           |
-| <!-- Enlace de Pablont98 -->                                  |         |           |
-| <!-- Enlace de Slowmybrosh -->                                |         |           |
+| https://github.com/Pablont98/recetas-iv/pull/42               | 0.0.10  |           |
+| https://github.com/Slowmybrosh/DietApp/pull/38                | 0.0.7   |           |
 | <!-- Enlace de sorozcov -->                                   |         |           |
 | <!-- Enlace de jlortega00 -->                                 |         |           |
 | <!-- Enlace de Xileon310 -->                                  |         |           |
