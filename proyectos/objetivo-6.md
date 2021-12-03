@@ -21,7 +21,7 @@
 | <!-- Enlace de JaimeGM96 -->                                  |         |           |
 | <!-- Enlace de agr8 -->                                       |         |           |
 | <!-- Enlace de Olasergiolas -->                               |         |           |
-| https://github.com/lentes4k/cAppjon/pull/31                   | 0.1.0   |           |
+| https://github.com/lentes4k/cAppjon/pull/31                   | 0.1.1   |           |
 | https://github.com/joaquingv12/car_workshop-maximizer/pull/40 | 0.0.8   |  ✓        |
 | <!-- Enlace de gomares -->                                    |         |           |
 | https://github.com/modejota/StoragIV/pull/29                  | 0.0.11  | ✓         |
