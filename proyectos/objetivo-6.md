@@ -48,7 +48,7 @@
 | <!-- Enlace de juanfran00 -->                                 |         |           |
 | <!-- Enlace de Albertotc99 -->                                |         |           |
 | <!-- Enlace de aleveji -->                                    |         |           |
-| <!-- Enlace de paula1999 -->                                  |         |           |
+| [paula1999](https://github.com/paula1999/Tune-in/pull/22)     | 0.0.10  |           |
 | <!-- Enlace de xCyal -->                                      |         |           |
 | <!-- Enlace de vlljuan99 -->                                  |         |           |
 | <!-- Enlace de JAntonioVR -->                                 |         |           |
