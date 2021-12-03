@@ -14,7 +14,7 @@
 | https://github.com/alexespana/barpower/pull/31 | 0.0.7 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| https://github.com/danifm1321/proyectoIV/pull/18 | 0.0.6 | |
+| https://github.com/danifm1321/proyectoIV/pull/18 | 0.0.6 | | 
 | <!-- Enlace de josevilchez247 --> | | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
