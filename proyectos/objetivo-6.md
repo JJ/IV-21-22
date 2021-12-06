@@ -28,7 +28,7 @@
 | <!-- Enlace de argelion14 -->                                 |         |           |
 | <!-- Enlace de juanmihdz -->                                  |         |           |
 | <!-- Enlace de venrra -->                                     |         |           |
-| https://github.com/Antobio17/IV/pull/38                       | 0.1.0   |           |
+| https://github.com/Antobio17/IV/pull/38                       | 0.1.1   |           |
 | <!-- Enlace de manujurado1 -->                                |         |           |
 | <!-- Enlace de migueorg -->                                   |         |           |
 | https://github.com/jesusmarzor/Peluqueria/pull/48             | 0.0.14  |           |
