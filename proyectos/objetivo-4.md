@@ -17,7 +17,7 @@
 | <!-- Enlace de MarinoFajardo --> | | |
 | https://github.com/danifm1321/proyectoIV/pull/12 | 0.0.5 |✓ |
 | <!-- Enlace de josevilchez247 --> | | |
-| <!-- Enlace de arguellesm --> | | |
+| https://github.com/arguellesm/faux/pull/14 | 0.0.5 | |
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
