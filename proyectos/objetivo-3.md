@@ -54,4 +54,3 @@
 | [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/21) | 0.0.2 | ✓ |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/22 | 0.0.6 | ✓ |
 | <!-- Enlace de pablozafra97 --> | | |
-
