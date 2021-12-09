@@ -41,7 +41,7 @@ línea con tus iniciales.
 | [amerigal](https://github.com/danifm1321/proyectoIV/pull/9) | 0.0.3 | ✓ |
 | https://github.com/Balrrach/IV-Proyecto/pull/14 | 0.0.6 | ✓ |
 | [ismaelmontesinos](https://github.com/LuisSS20/DontWait/pull/8) | 0.0.3 | |
-| <!-- Enlace de morevi --> | | |
+| [morevi](https://github.com/francisco3207/IVProyecto/pull/11) | 0.0.2 | |
 | https://github.com/Mapachana/Proyecto-IV/pull/8 | 0.0.3 | ✓ |
 | https://github.com/arguellesm/faux/pull/8 | 0.0.3 | ✓ |
 | https://github.com/eantoniocalo18/IV/pull/20 |0.0.3| ✓ |
