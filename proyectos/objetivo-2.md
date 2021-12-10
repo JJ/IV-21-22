@@ -12,7 +12,7 @@ línea con tus iniciales.
 | https://github.com/argelion14/Sport-car/pull/14 | 0.0.3 | ✓ |
 | https://github.com/lentes4k/Proyecto-IV/pull/15 | 0.0.3 |✓ |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/19 | 0.0.4 | ✓ |
-| <!-- Enlace de eantoniocalo18 --> | | |
+| https://github.com/morevi/jobcontrol/pull/43 | 0.0.4| |
 | https://github.com/Parka015/SerieMotion-IV/pull/16 | 0.0.4 | |
 | <!-- Enlace de C L A --> | | |
 | https://github.com/jesusmarzor/Peluqueria/pull/15 | 0.0.6 | ✓ |
@@ -41,7 +41,7 @@ línea con tus iniciales.
 | [amerigal](https://github.com/danifm1321/proyectoIV/pull/9) | 0.0.3 | ✓ |
 | https://github.com/Balrrach/IV-Proyecto/pull/14 | 0.0.6 | ✓ |
 | [ismaelmontesinos](https://github.com/LuisSS20/DontWait/pull/8) | 0.0.3 | |
-| <!-- Enlace de morevi --> | | |
+| [morevi](https://github.com/francisco3207/IVProyecto/pull/11) | 0.0.2 | ✓ |
 | https://github.com/Mapachana/Proyecto-IV/pull/8 | 0.0.3 | ✓ |
 | https://github.com/arguellesm/faux/pull/8 | 0.0.3 | ✓ |
 | https://github.com/eantoniocalo18/IV/pull/20 |0.0.3| ✓ |

@@ -14,7 +14,7 @@
 | https://github.com/alexespana/barpower/pull/31 | 0.0.7 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| <!-- Enlace de danifm1321 --> | | |
+| https://github.com/danifm1321/proyectoIV/pull/18 | 0.0.6 |✓ |
 | <!-- Enlace de josevilchez247 --> | | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
@@ -28,7 +28,7 @@
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
-| https://github.com/Antobio17/IV/pull/35 | 0.1.4 | |
+| https://github.com/Antobio17/IV/pull/35 | 0.1.4 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de migueorg --> | | |
 | https://github.com/jesusmarzor/Peluqueria/pull/46 | 0.0.13 | ✓ |
@@ -51,5 +51,5 @@
 | https://github.com/paula1999/Tune-in/pull/20 | 0.0.9 | ✓ |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
-| https://github.com/JAntonioVR/IV-2021-2022/pull/35 | 0.0.8 | |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/35 | 0.0.8 |✓ |
 | <!-- Enlace de pablozafra97 --> | | |
