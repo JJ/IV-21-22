@@ -37,7 +37,7 @@
 | https://github.com/amerigal/proyecto_iv/pull/9 | 0.0.7 | ✓|
 | https://github.com/Asmilex/IV/pull/8 | 0.0.10 |✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
-| <!-- Enlace de morevi --> | | |
+| https://github.com/morevi/jobcontrol/pull/47 | 0.0.4 | |
 | https://github.com/Pablont98/IV/pull/14 | 0.0.5 |✓ |
 | https://github.com/Slowmybrosh/DietApp/pull/20 | 0.0.4 |✓ |
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/15 | 0.0.4  |✓ |
