@@ -51,5 +51,5 @@
 | [paula1999](https://github.com/paula1999/Tune-in/pull/22)            | 0.0.10  |  ✓        |
 | <!-- Enlace de xCyal -->                                      |         |           |
 | <!-- Enlace de vlljuan99 -->                                  |         |           |
-| <!-- Enlace de JAntonioVR -->                                 |         |           |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/38            | 0.0.9   |           |
 | <!-- Enlace de pablozafra97 -->                               |         |           |
