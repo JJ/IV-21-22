@@ -3,7 +3,7 @@
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de noise-kngdm --> | | |
+| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/22) |0.0.3 | |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | https://github.com/Paszser/ComparerApp/pull/21 | 0.0.6 | |
