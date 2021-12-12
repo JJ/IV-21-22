@@ -6,7 +6,7 @@
 | <!-- Enlace de Esturillo98 -->                                |         |           |
 | <!-- Enlace de LuisArostegui -->                              |         |           |
 | <!-- Enlace de Paszser -->                                    |         |           |
-| https://github.com/Mapachana/Predictor-COVID/pull/22          |  0.1.0  |           |
+| https://github.com/Mapachana/Predictor-COVID/pull/22          |  0.1.1  |           |
 | <!-- Enlace de eantoniocalo18 -->                             |         |           |
 | <!-- Enlace de NachoCarher -->                                |         |           |
 | <!-- Enlace de C L A -->                                      |         |           |
