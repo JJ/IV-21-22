@@ -10,7 +10,7 @@
 | <!-- Enlace de eantoniocalo18 -->                             |         |           |
 | <!-- Enlace de NachoCarher -->                                |         |           |
 | <!-- Enlace de C L A -->                                      |         |           |
-| <!-- Enlace de Balrrach -->                                   |         |           |
+| https://github.com/Balrrach/Instant-Eat/pull/23               | 0.0.18  |           |
 | https://github.com/alexespana/barpower/pull/37                | 0.0.9   | ✓         |
 | <!-- Enlace de Javierexmar -->                                |         |           |
 | <!-- Enlace de MarinoFajardo -->                              |         |           |
