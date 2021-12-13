@@ -7,4 +7,3 @@ requires "YAML";
 requires "Term::ANSIColor";
 requires "Net::Ping";
 requires "GitHub::Actions";
-requires "List::Util";

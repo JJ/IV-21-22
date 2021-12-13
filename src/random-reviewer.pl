@@ -7,7 +7,6 @@ use v5.14;
 use JSON;
 use File::Slurper 'read_text';
 use GitHub::Actions;
-use List::Util qw(min);
 
 use constant MAXREVIEWERS => 3;
 
@@ -19,7 +18,7 @@ my $este_objetivo = $ENV{'objetivo'};
 
 my @reviewers;
 my @these_students = @{$objetivos[$este_objetivo]};
-my $num_reviewers = min(MAXREVIEWERS, scalar @these_students);
+my $num_reviewers = scalar(@these_students) < MAXREVIEWERS ? scalar(@these_students) : MAXREVIEWERS;
 
 for ( my $i = 0; $i < $num_reviewers; $i ++ ) {
   my $this_reviewer = splice( @these_students, int(rand( $#these_students ) ), 1 );
