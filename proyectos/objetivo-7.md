@@ -11,7 +11,7 @@
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | <!-- Enlace de Balrrach --> | | |
-| <!-- Enlace de alexespana --> | | |
+| https://github.com/alexespana/barpower/pull/47 | 0.0.10 | |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
