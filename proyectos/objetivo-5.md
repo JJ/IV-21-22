@@ -36,7 +36,7 @@
 | https://github.com/amerigal/gestor-recibos/pull/28 | 0.0.9 | ✓ |
 | https://github.com/Asmilex/IV/pull/23  | 0.1.9 | ✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
-| <!-- Enlace de morevi --> | | |
+| [morevi](https://github.com/morevi/jobcontrol/pull/58) | 0.0.6 | |
 | https://github.com/Pablont98/recetas-iv/pull/38 | 0.0.8 | ✓ |
 | https://github.com/Slowmybrosh/DietApp/pull/36 | 0.0.5 | ✓ |
 | <!-- Enlace de sorozcov --> | | |
