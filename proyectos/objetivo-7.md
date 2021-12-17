@@ -28,7 +28,7 @@
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
-| <!-- Enlace de Antobio17 --> | | |
+| https://github.com/Antobio17/IV/pull/44 | 0.1.2 | |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
