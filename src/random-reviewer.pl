@@ -7,6 +7,7 @@ use v5.14;
 use JSON;
 use File::Slurper 'read_text';
 use GitHub::Actions;
+use LWP::UserAgent;
 
 use constant MAXREVIEWERS => 3;
 
@@ -15,6 +16,10 @@ my $objetivos_json = read_text( "data/objetivos.json" ) || die "No encuentro el 
 my @objetivos = @{from_json( $objetivos_json )};
 
 my $este_objetivo = $ENV{'objetivo'};
+my $user          = $ENV{'user'};
+my $repo          = $ENV{'repo'};
+my $pull_number   = $ENV{'pull_number'};
+my $token         = $ENV{'GITHUB_TOKEN'};
 
 my @reviewers;
 my @these_students = @{$objetivos[$este_objetivo]};
@@ -25,4 +30,14 @@ for ( my $i = 0; $i < $num_reviewers; $i ++ ) {
   push( @reviewers, "\@".$this_reviewer );
 }
 
-warning( "⛹ Revisores → ". join(" ", @reviewers) );
+my $data = "⛹ Revisores → ". join(" ", @reviewers);
+my $post_data = sprintf('{"body":"%s"}', $data);
+my $url = sprintf('https://api.github.com/repos/%s/%s/issues/%s/comments', $user, $repo, $pull_number);
+my $auth_token = sprintf('token %s', $token);
+
+warning($data);
+
+my $ua = LWP::UserAgent->new();
+my $request = new HTTP::Request('POST' => $url, ['Authorization' => $auth_token]);
+$request->content($post_data);
+$ua->request($request);

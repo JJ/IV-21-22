@@ -14,6 +14,7 @@ jobs:
       objetivo: ${{steps.pr_info.outputs.objetivo}}
       rama: ${{steps.pr_info.outputs.rama}}
       pr_milestone: ${{steps.pr_info.outputs.pr_milestone}}
+      pull_number: ${{steps.pr_info.outputs.pull_number}}
     steps:
       - id: pr_info
         name: Comprueba y analiza
@@ -194,7 +195,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: [ops-on-pr, ops-on-source, ops-using-API]
     env:
+      user: ${{ needs.ops-on-pr.outputs.user }}
+      repo: ${{ needs.ops-on-pr.outputs.repo }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
+      pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Fuentes de este repo (para JSON)
         uses: actions/checkout@v2
