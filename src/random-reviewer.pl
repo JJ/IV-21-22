@@ -40,4 +40,5 @@ warning($data);
 my $ua = LWP::UserAgent->new();
 my $request = new HTTP::Request('POST' => $url, ['Authorization' => $auth_token]);
 $request->content($post_data);
-$ua->request($request) || die "No puedo poner comentario: $@";
+my $response = $ua->request($request)->as_string();
+print "$response";
