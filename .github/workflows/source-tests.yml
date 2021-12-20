@@ -199,7 +199,7 @@ jobs:
       repo: ${{ needs.ops-on-pr.outputs.repo }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
       pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.IV_SECRETS_TOKEN }}
     steps:
       - name: Fuentes de este repo (para JSON)
         uses: actions/checkout@v2

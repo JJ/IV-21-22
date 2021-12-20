@@ -38,7 +38,11 @@ my $auth_token = sprintf('token %s', $token);
 warning($data);
 
 my $ua = LWP::UserAgent->new();
-my $request = new HTTP::Request('POST' => $url, ['Authorization' => $auth_token]);
+my $request = new HTTP::Request('POST' => $url,
+                                [
+                                 'Authorization' => "token $auth_token",
+                                 'Accept' =>  'application/vnd.github.v3.raw'
+                                ]);
 $request->content($post_data);
 my $response = $ua->request($request)->as_string() || die "No puedo poner comentario: $@";
 print "$response";
