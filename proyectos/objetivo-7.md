@@ -20,7 +20,7 @@
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
-| https://github.com/Olasergiolas/Go-AutoEQ/pull/51 | 0.0.8 | |
+| https://github.com/Olasergiolas/Go-AutoEQ/pull/51 | 0.0.8 ||
 | https://github.com/lentes4k/cAppjon/pull/34 | 0.1.3 | |
 | https://github.com/joaquingv12/car_workshop-maximizer/pull/43 | 0.0.11 | ✓ |
 | <!-- Enlace de gomares --> | | |
