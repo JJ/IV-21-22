@@ -24,8 +24,8 @@ method new( Str $file = "proyectos/usuarios.md") {
                 @objetivos[$objetivo] ∪= $usuario;
             }
             if ( @contenido[$index + 2] ~~ /"github.com"/ ) {
-            %students{$usuario}<entrega> = +$objetivo ;
-            @entregas[$objetivo] ∪= $usuario;
+                %students{$usuario}<entrega> = +$objetivo ;
+                @entregas[$objetivo] ∪= $usuario;
             }
         }
     }
@@ -64,4 +64,8 @@ method objetivos() {
 
 method estudiantes() {
     return %!students.keys;
+}
+
+method objetivos-cumplidos() {
+    return @!objetivos.map( *.keys.sort( { $^a.lc cmp $^b.lc }) );
 }

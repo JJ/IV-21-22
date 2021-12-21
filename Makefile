@@ -7,3 +7,11 @@ objetivos:
 
 bajas:
 	raku -Ilib scripts/iv-bajas.raku
+
+json:
+	raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
+notas:
+	raku -Ilib scripts/iv-notas.raku
+
+revisores:
+	fatpack pack src/random-reviewer.pl > t/random-reviewer

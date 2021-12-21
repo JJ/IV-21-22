@@ -1,6 +1,6 @@
 name: "Tests sobre fuentes/API del repo del estudiante"
 on:
-  pull_request:
+  pull_request_target:
     paths:
       - "proyectos/*.md"
 
@@ -14,6 +14,7 @@ jobs:
       objetivo: ${{steps.pr_info.outputs.objetivo}}
       rama: ${{steps.pr_info.outputs.rama}}
       pr_milestone: ${{steps.pr_info.outputs.pr_milestone}}
+      pull_number: ${{steps.pr_info.outputs.pull_number}}
     steps:
       - id: pr_info
         name: Comprueba y analiza
@@ -173,7 +174,7 @@ jobs:
                         })
             const checks = await github.paginate( checks_before_pag)
             console.log( all_good("✅ Hay " + checks.length + " sistemas de CI configurados"))
-
+            console.log( "Checks → ", checks)
             if ( checks.length < 1 ) {
                     core.setFailed( sorry("No hay suficientes sistemas de CI configurados"))
             }
@@ -190,3 +191,17 @@ jobs:
             } else {
               console.log( all_good("Hay alguno de los autorizados funcionando" ))
             }
+  random-revisor:
+    runs-on: ubuntu-latest
+    needs: [ops-on-pr, ops-on-source, ops-using-API]
+    env:
+      user: ${{ needs.ops-on-pr.outputs.user }}
+      repo: ${{ needs.ops-on-pr.outputs.repo }}
+      objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
+      pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
+      GITHUB_TOKEN: ${{ secrets.IV_COMMENTS_TOKEN }}
+    steps:
+      - name: Fuentes de este repo (para JSON)
+        uses: actions/checkout@v2
+      - name: Revisores aleatorios
+        run: t/random-reviewer
