@@ -2,7 +2,7 @@
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/26) | v0.3.1 | |
+| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/26) | v0.3.1  | |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | <!-- Enlace de Paszser --> | | |
