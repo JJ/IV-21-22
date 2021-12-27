@@ -2,7 +2,7 @@ name: "Comprueba los proyectos por hito"
 on:
   pull_request:
     paths:
-      - 'proyectos/hito-[1234567].md'
+      - "proyectos/hito-[1234567].md"
 
 jobs:
   extrae_usuario_repo:
@@ -20,7 +20,7 @@ jobs:
         uses: actions/github-script@v3
         id: user_repo
         env:
-            ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
@@ -47,29 +47,29 @@ jobs:
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
-              const user = process.env.IV_USER
-              const repo = process.env.IV_REPO
-              console.log( "» Trabajando con el repo " + repo + " para el usuario " + user )
-              const milestones = await github.issues.listMilestones( { owner: user, repo: repo } )
-              if ( ! milestones.data.length ) {
-                  core.setFailed("❌ Tiene que haber por lo menos un milestone")
-              }
-              const minMilestones = 3
-              if ( minMilestones && milestones.data.length < minMilestones ) {
-                  core.setFailed( "❌ Tendría que haber más de " + minMilestones + " milestone(s)");
-              }
-              var totalIssues = 0
-              var totalClosedIssues = 0
-              milestones.data.forEach( async function( milestone ) {
-                  totalIssues += milestone.open_issues + milestone.closed_issues
-                  totalClosedIssues += milestone.closed_issues
-              })
-              console.log( "✅ Hay " + totalIssues + " issues en tus milestones y " + totalClosedIssues + " cerrados ")
-              if ( ! totalIssues ) {
-                  core.setFailed( "❌ No hay ningún issue en tus milestones")
-              } else if ( ! totalClosedIssues ) {
-                  core.setFailed( "❌ No hay ningún issue cerrado milestones")
-              }
+            const user = process.env.IV_USER
+            const repo = process.env.IV_REPO
+            console.log( "» Trabajando con el repo " + repo + " para el usuario " + user )
+            const milestones = await github.issues.listMilestones( { owner: user, repo: repo } )
+            if ( ! milestones.data.length ) {
+                core.setFailed("❌ Tiene que haber por lo menos un milestone")
+            }
+            const minMilestones = 3
+            if ( minMilestones && milestones.data.length < minMilestones ) {
+                core.setFailed( "❌ Tendría que haber más de " + minMilestones + " milestone(s)");
+            }
+            var totalIssues = 0
+            var totalClosedIssues = 0
+            milestones.data.forEach( async function( milestone ) {
+                totalIssues += milestone.open_issues + milestone.closed_issues
+                totalClosedIssues += milestone.closed_issues
+            })
+            console.log( "✅ Hay " + totalIssues + " issues en tus milestones y " + totalClosedIssues + " cerrados ")
+            if ( ! totalIssues ) {
+                core.setFailed( "❌ No hay ningún issue en tus milestones")
+            } else if ( ! totalClosedIssues ) {
+                core.setFailed( "❌ No hay ningún issue cerrado milestones")
+            }
       - name: Filtra hito
         uses: dorny/paths-filter@v2
         id: hito7
@@ -149,7 +149,7 @@ jobs:
       - name: Descarga repo usuario y decodifica configuración
         uses: actions/checkout@v2
         with:
-          repository: '${{env.IV_USER}}/${{env.IV_REPO}}'
+          repository: "${{env.IV_USER}}/${{env.IV_REPO}}"
       - name: Establece variables del repo
         id: container
         run: curl https://raw.githubusercontent.com/JJ/IV-20-21/master/t/get-config | perl

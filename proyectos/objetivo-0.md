@@ -35,7 +35,6 @@ línea con tus iniciales.
 | https://github.com/venrra/NombreGenericoAPI/pull/1  | v0.0.0 | ✓ |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/manujurado1/smartfootballapp/pull/1 | 0.0.1 | ✓ |
-| <!-- Enlace de L C G J --> | | |
 | https://github.com/migueorg/tmp-Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/jesusmarzor/Proyecto-IV/pull/2 | 0.0.2 | ✓  |
 | https://github.com/francisco3207/IVProyecto/pull/1 | 0.0.1 |✓ |
@@ -55,7 +54,7 @@ línea con tus iniciales.
 | https://github.com/albertotc99/MercadoClubesPro/pull/1 | 0.0.1 | ✓ |
 | https://github.com/aleveji/BuscaRecetas/pull/1 | 0.0.2 |✓ |
 | https://github.com/paula1999/IV/pull/1 | 0.0.1 |✓ |
-| <!-- Enlace de xCyal --> | | |
+| https://github.com/xCyal/A-Tracker/pull/1 | |✓ |
 | https://github.com/vlljuan99/gasolinapp/pull/5 | 0.0.1 | ✓ |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/1 | 0.0.1 |✓ |
 | https://github.com/pablozafra97/proyecto-IV/pull/1 | 0.0.1 | ✓ |
