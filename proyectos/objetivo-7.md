@@ -33,7 +33,7 @@
 | <!-- Enlace de migueorg --> | | |
 | https://github.com/jesusmarzor/Peluqueria/pull/51 | 0.0.15 | |
 | <!-- Enlace de francisco3207 --> | | |
-| https://github.com/amerigal/gestor-recibos/pull/42 | 0.0.11 | |
+| https://github.com/amerigal/gestor-recibos/pull/42 | 0.0.12 | |
 | https://github.com/Asmilex/IV/pull/32 | 0.3.4 | ✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
