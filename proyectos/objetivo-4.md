@@ -44,7 +44,7 @@
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/Xileon310/GoParty/pull/33) | 0.0.8 | ✓ |
 | [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/14)| 0.0.8 |✓ |
-| [edusegrich](https://github.com/edusegrich/OpoTests/pull/31) | 0.0.5 | |
+| [edusegrich](https://github.com/edusegrich/OpoTests/pull/31) | 0.0.6 | |
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/17) | 0.0.4 | ✓ |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
