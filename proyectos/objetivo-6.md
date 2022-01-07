@@ -23,7 +23,7 @@
 | https://github.com/Olasergiolas/Go-AutoEQ/pull/46             | 0.0.7   |  ✓        |
 | https://github.com/lentes4k/cAppjon/pull/31                   | 0.1.1   | ✓         |
 | https://github.com/joaquingv12/car_workshop-maximizer/pull/40 | 0.0.8   | ✓         |
-| [gomares](https://github.com/gomares/More-mangas/pull/41)     |  0.0.7  |           |
+| [gomares](https://github.com/gomares/More-mangas/pull/40)     |  0.0.7  |           |
 | https://github.com/modejota/StoragIV/pull/29                  | 0.0.11  | ✓         |
 | <!-- Enlace de argelion14 -->                                 |         |           |
 | <!-- Enlace de juanmihdz -->                                  |         |           |
