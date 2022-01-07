@@ -24,7 +24,7 @@
 | <!-- Enlace de lentes4k --> | | |
 | <!-- Enlace de joaquingv12 --> | | |
 | <!-- Enlace de gomares --> | | |
-| https://github.com/modejota/StoragIV/pull/38  | 0.0.13 || 
+| https://github.com/modejota/StoragIV/pull/38  | 0.0.13 | | 
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
