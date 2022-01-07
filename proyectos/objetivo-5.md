@@ -25,7 +25,7 @@
 | https://github.com/joaquingv12/car_workshop-maximizer/pull/32       | 0.0.6   | ✓         |
 | [gomares](https://github.com/gomares/More-mangas/pull/31)           | 0.0.6   | ✓         |
 | https://github.com/modejota/StoragIV/pull/27                        | 0.0.9   | ✓         |
-| <!-- Enlace de argelion14 -->                                       |         |           |
+| https://github.com/argelion14/Sport-car/pull/24                     | 0.0.9   |           |
 | <!-- Enlace de juanmihdz -->                                        |         |           |
 | <!-- Enlace de venrra -->                                           |         |           |
 | https://github.com/Antobio17/IV/pull/35                             | 0.1.4   | ✓         |
