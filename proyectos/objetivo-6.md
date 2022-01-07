@@ -4,10 +4,10 @@
 |---------------------------------------------------------------|---------|-----------|
 | <!-- Enlace de noise-kngdm -->                                |         |           |
 | <!-- Enlace de Esturillo98 -->                                |         |           |
-| <!-- Enlace de LuisArostegui -->                              |         |           |
+| https://github.com/LuisArostegui/MyWallet/pull/38             |  0.1.0  |           |
 | <!-- Enlace de Paszser -->                                    |         |           |
 | https://github.com/Mapachana/Predictor-COVID/pull/22          |  0.1.1  | ✓         |
-| <!-- Enlace de eantoniocalo18 -->                             |         |           |
+| https://github.com/eantoniocalo18/IV/pull/39                  |  0.1.1  | ✓         |
 | <!-- Enlace de NachoCarher -->                                |         |           |
 | <!-- Enlace de C L A -->                                      |         |           |
 | https://github.com/Balrrach/Instant-Eat/pull/23               | 0.0.18  | ✓         |
@@ -23,7 +23,7 @@
 | https://github.com/Olasergiolas/Go-AutoEQ/pull/46             | 0.0.7   |  ✓        |
 | https://github.com/lentes4k/cAppjon/pull/31                   | 0.1.1   | ✓         |
 | https://github.com/joaquingv12/car_workshop-maximizer/pull/40 | 0.0.8   | ✓         |
-| <!-- Enlace de gomares -->                                    |         |           |
+| [gomares](https://github.com/gomares/More-mangas/pull/40)     |  0.0.7  |           |
 | https://github.com/modejota/StoragIV/pull/29                  | 0.0.11  | ✓         |
 | <!-- Enlace de argelion14 -->                                 |         |           |
 | <!-- Enlace de juanmihdz -->                                  |         |           |
@@ -41,7 +41,7 @@
 | https://github.com/Slowmybrosh/DietApp/pull/38                | 0.0.7   | ✓         |
 | <!-- Enlace de sorozcov -->                                   |         |           |
 | <!-- Enlace de jlortega00 -->                                 |         |           |
-| <!-- Enlace de Xileon310 -->                                  |         |           |
+| [Xileon310](https://github.com/Xileon310/GoParty/pull/43)     | 0.0.11  |           |
 | <!-- Enlace de Parka015 -->                                   |         |           |
 | <!-- Enlace de edusegrich -->                                 |         |           |
 | <!-- Enlace de LuisSS20 -->                                   |         |           |

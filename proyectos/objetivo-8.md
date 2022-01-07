@@ -10,7 +10,7 @@
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
-| <!-- Enlace de Balrrach --> | | |
+| https://github.com/Balrrach/Instant-Eat/pull/37 | 0.0.25 | |
 | <!-- Enlace de alexespana --> | | |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
@@ -33,7 +33,7 @@
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
-| <!-- Enlace de amerigal --> | | |
+| https://github.com/amerigal/gestor-recibos/pull/46 | 0.0.13 | |
 | <!-- Enlace de Asmilex --> | | |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
