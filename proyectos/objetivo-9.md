@@ -33,7 +33,7 @@
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
-| <!-- Enlace de amerigal --> | | |
+| https://github.com/amerigal/gestor-recibos/pull/49 | 0.0.14 | |
 | <!-- Enlace de Asmilex --> | | |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
