@@ -47,7 +47,7 @@
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/24)            | 0.0.4   |     ✓     |
 | <!-- Enlace de juanfran00 -->                                       |         |           |
 | <!-- Enlace de Albertotc99 -->                                      |         |           |
-| <!-- Enlace de aleveji -->                                          |         |           |
+| https://github.com/aleveji/BuscaRecetas/pull/15                     | 0.0.6   |           |
 | https://github.com/paula1999/Tune-in/pull/20                        | 0.0.9   | ✓         |
 | <!-- Enlace de xCyal -->                                            |         |           |
 | <!-- Enlace de vlljuan99 -->                                        |         |           |
