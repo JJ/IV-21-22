@@ -44,13 +44,13 @@
 | <!-- Enlace de jlortega00 -->                                       |         |           |
 | [Xileon310](https://github.com/Xileon310/GoParty/pull/33)           | 0.0.8   | ✓         |
 | [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/14)      | 0.0.8   | ✓         |
-| [edusegrich](https://github.com/edusegrich/OpoTests/pull/31)        | 0.0.7   |           |
+| [edusegrich](https://github.com/edusegrich/OpoTests/pull/31)        | 0.0.7   | ✗         |
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/17)            | 0.0.4   | ✓         |
 | <!-- Enlace de juanfran00 -->                                       |         |           |
 | <!-- Enlace de Albertotc99 -->                                      |         |           |
 | https://github.com/aleveji/BuscaRecetas/pull/13                     | 0.0.5   | ✓         |
 | https://github.com/paula1999/Tune-in/pull/16                        | 0.0.7   | ✓         |
 | https://github.com/xCyal/A-Tracker/pull/15                          | 0.4.4   |           |
-| https://github.com/vlljuan99/gasolinapp/pull/24                     | 0.0.1   |           |
+| https://github.com/vlljuan99/gasolinapp/pull/24                     | 0.0.1   | ✗         |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/31                  | 0.0.7   | ✓         |
 | <!-- Enlace de pablozafra97 -->                                     |         |           |

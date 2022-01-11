@@ -2,25 +2,28 @@ use IO::Glob;
 
 unit class IV::Stats;
 
+has @!student-list;
 has %!students;
 has @!objetivos;
 has @!entregas;
 
+my @cumplimiento=[.05,.075, .15, .075, .15, 0.05, 0.05, 0.1, 0.1, 0.1, 0.1 ];
+
 method new( Str $file = "proyectos/usuarios.md") {
-    my @students = $file.IO.slurp.lines.grep( /"<!--"/ )
+    my @student-list = $file.IO.slurp.lines.grep( /"<!--"/ )
         .map( *.split( "--" )[1].split(" ")[3]);
     my %students;
     my @objetivos;
     my @entregas;
-    @students.map: { %students{$_} = { :objetivo(0), :entrega(0) } };
+    @student-list.map: { %students{$_} = { :objetivos(set()), :entrega(0) } };
     for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
         my ($objetivo) := $f ~~ /(\d+)/;
         my @contenido = $f.IO.lines.grep(/"|"/);
         @objetivos[$objetivo] = set();
         @entregas[$objetivo] = set();
-        for @students.kv -> $index, $usuario {
+        for @student-list.kv -> $index, $usuario {
             if ( @contenido[$index + 2] ~~ /"✓"/ ) {
-                %students{$usuario}<objetivo> = +$objetivo;
+                %students{$usuario}<objetivos> ∪= +$objetivo;
                 @objetivos[$objetivo] ∪= $usuario;
             }
             if ( @contenido[$index + 2] ~~ /"github.com"/ ) {
@@ -29,13 +32,13 @@ method new( Str $file = "proyectos/usuarios.md") {
             }
         }
     }
-    self.bless( :%students, :@objetivos, :@entregas );
+    self.bless( :@student-list, :%students, :@objetivos, :@entregas );
 }
 
-submethod BUILD( :%!students, :@!objetivos, :@!entregas) {}
+submethod BUILD( :@!student-list, :%!students, :@!objetivos, :@!entregas) {}
 
 method objetivos-de( Str $user  ) {
-    return %!students{$user}<objetivo>;
+    return %!students{$user}<objetivos>;
 }
 
 method entregas-de( Str $user ) {
@@ -68,4 +71,14 @@ method estudiantes() {
 
 method objetivos-cumplidos() {
     return @!objetivos.map( *.keys.sort( { $^a.lc cmp $^b.lc }) );
+}
+
+method notas( --> Seq ) {
+    return gather for @!student-list -> $u {
+        my $nota = 0;
+        for  %!students{$u}<objetivos>.list.keys -> $n {
+            $nota += @cumplimiento[$n]
+        }
+        take $nota*7;
+    }
 }

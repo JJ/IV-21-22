@@ -54,7 +54,7 @@ línea con tus iniciales.
 | [Albertotc99](https://github.com/Xileon310/IV-Project/pull/22)  | 0.0.4   | ✓         |
 | https://github.com/edusegrich/OpoTests/pull/19                  | 0.0.3   | ✓         |
 | https://github.com/vlljuan99/gasolinapp/pull/15                 | 0.0.3   | ✓         |
-| https://github.com/xCyal/A-Tracker/pull/9                       | 0.0.2   |           |
+| https://github.com/xCyal/A-Tracker/pull/9                       | 0.0.2   | ✗         |
 | [Pablont98](https://github.com/Pablont98/IV/pull/11)            | 0.0.3   | ✓         |
 | https://github.com/josevilchez247/Odyssey/pull/18               | 0.0.4   | ✓         |
 | <!-- Enlace de pablozafra97 -->                                 |         |           |
