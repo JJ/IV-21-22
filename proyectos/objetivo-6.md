@@ -2,7 +2,7 @@
 
 | URL                                                           | Versión | Alcanzado |
 |---------------------------------------------------------------|---------|-----------|
-| <!-- Enlace de noise-kngdm -->                                |         |           |
+| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/30)| v0.3.2 |           |
 | <!-- Enlace de Esturillo98 -->                                |         |           |
 | https://github.com/LuisArostegui/MyWallet/pull/38             |  0.1.0  | ✓         |
 | https://github.com/Paszser/ComparerApp/pull/27                |  0.1.1  |           |
