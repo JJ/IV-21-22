@@ -9,7 +9,7 @@
 | https://github.com/Paszser/ComparerApp/pull/20                      | 0.0.5   | ✓         |
 | https://github.com/Mapachana/Predictor-COVID/pull/9                 | 0.0.5   | ✓         |
 | https://github.com/eantoniocalo18/IV/pull/26                        | 0.0.5   | ✓         |
-| [NachoCarher](https://github.com/NachoCarher/MyHams/pull/22)        | 0.0.6   |           |
+| [NachoCarher](https://github.com/NachoCarher/MyHams/pull/22)        | 0.0.6   | ✗         |
 | <!-- Enlace de C L A -->                                            |         |           |
 | https://github.com/Balrrach/IV-Proyecto/pull/16                     | 0.0.9   | ✓         |
 | https://github.com/alexespana/BarPower/pull/20                      | 0.0.5   | ✓         |
