@@ -49,7 +49,7 @@
 | <!-- Enlace de Albertotc99 -->                                      |         |           |
 | https://github.com/aleveji/BuscaRecetas/pull/15                     | 0.0.6   | ✓         |
 | https://github.com/paula1999/Tune-in/pull/20                        | 0.0.9   | ✓         |
-| https://github.com/xCyal/A-Tracker/pull/35                          | 0.5.2   | *         |
+| https://github.com/xCyal/A-Tracker/pull/35                          | 0.5.3   | *         |
 | <!-- Enlace de vlljuan99 -->                                        |         |           |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/35                  | 0.0.8   | ✓         |
 | <!-- Enlace de pablozafra97 -->                                     |         |           |
