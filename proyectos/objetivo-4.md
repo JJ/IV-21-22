@@ -17,7 +17,7 @@
 | <!-- Enlace de MarinoFajardo -->                                    |         |           |
 | https://github.com/danifm1321/proyectoIV/pull/12                    | 0.0.5   | ✓         |
 | <!-- Enlace de josevilchez247 -->                                   |         |           |
-| https://github.com/arguellesm/faux/pull/14                          | 0.0.6   | ✗         |
+| https://github.com/arguellesm/faux/pull/14                          | 0.0.6   | *         |
 | <!-- Enlace de DFolchA -->                                          |         |           |
 | <!-- Enlace de JaimeGM96 -->                                        |         |           |
 | [agr8](https://github.com/agr8/Planner-IV/pull/23)                  | 0.0.6   | ✓         |
@@ -50,7 +50,7 @@
 | <!-- Enlace de Albertotc99 -->                                      |         |           |
 | https://github.com/aleveji/BuscaRecetas/pull/13                     | 0.0.5   | ✓         |
 | https://github.com/paula1999/Tune-in/pull/16                        | 0.0.7   | ✓         |
-| https://github.com/xCyal/A-Tracker/pull/30                          | 0.4.4   | *          |
+| https://github.com/xCyal/A-Tracker/pull/30                          | 0.4.4   | *         |
 | https://github.com/vlljuan99/gasolinapp/pull/24                     | 0.0.1   | ✗         |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/31                  | 0.0.7   | ✓         |
 | <!-- Enlace de pablozafra97 -->                                     |         |           |
