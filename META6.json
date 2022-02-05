@@ -2,21 +2,23 @@
   "auth" : "github:JJ",
   "authors" : ["JJ Merelo"],
   "depends" : [
-      "IO::Glob",
-      "Text::CSV"
+    "IO::Glob",
+    "Text::CSV",
+    "Git::File::History"
   ],
-  "description" : "Scripts para ayudar con la asignatura IV",
+  "description" : "Scripts Raku para ayudar con la asignatura IV",
   "license" : "Artistic-2.0",
   "name" : "IV scripts",
   "perl" : "6.d",
   "resources" : [ ],
   "source-url" : "https://github.com/JJ/IV-21-22.git",
   "provides": {
-    "IV::Stats": "lib/IV/Stats.pm6"
+    "IV::Stats": "lib/IV/Stats.pm6",
+    "IV::Stats::Fechas": "lib/IV/Stats/Fechas.pm6"
   },
   "tags" : [
     "scripts", "learning analytics"
   ],
-    "version" : "0.0.1",
+    "version" : "0.0.2",
     "meta-version": 1
 }

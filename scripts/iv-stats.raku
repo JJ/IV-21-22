@@ -1,6 +1,5 @@
 #!/usr/bin/env perl6
 
-use IO::Glob;
 use IV::Stats;
 
 my $stats = IV::Stats.new;
@@ -14,8 +13,8 @@ for $stats.objetivos -> $o {
             ($entregados - $aceptados) *100/ $todos,
             $aceptados*100/ $todos,
             ($todos - $entregados)*100/$todos  ),
-            ("🚧" xx $entregados - $aceptados,
+            ("🚧" xx ($entregados - $aceptados),
             "✅" xx $aceptados,
-            "❌" xx $todos - $aceptados).Slip.join("\n     ");
+            "❌" xx $todos - $entregados).Slip.join("\n     ");
 
 }
