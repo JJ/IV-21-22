@@ -43,7 +43,7 @@
 | <!-- Enlace de jlortega00 -->                                       |         |           |
 | [Xileon310](https://github.com/Xileon310/GoParty/pull/44)           | 0.0.11  | *         |
 | https://github.com/Parka015/serie-motion/pull/38                    | 0.0.11  | *         |
-| <!-- Enlace de edusegrich -->                                       |         |           |
+| [edusegrich](https://github.com/edusegrich/OpoTests/pull/38)        | 0.0.10  | *         |
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/28)            | 0.0.5   | ✓         |
 | <!-- Enlace de juanfran00 -->                                       |         |           |
 | <!-- Enlace de Albertotc99 -->                                      |         |           |
