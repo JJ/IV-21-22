@@ -16,7 +16,7 @@
 | <!-- Enlace de MarinoFajardo -->                                    |         |           |
 | https://github.com/danifm1321/proyectoIV/pull/20                    | 0.0.7   | ✓         |
 | <!-- Enlace de josevilchez247 -->                                   |         |           |
-| https://github.com/arguellesm/faux/pull/23                          | 0.1.0   |           |
+| https://github.com/arguellesm/faux/pull/23                          | 0.1.1   |           |
 | <!-- Enlace de DFolchA -->                                          |         |           |
 | <!-- Enlace de JaimeGM96 -->                                        |         |           |
 | [agr8](https://github.com/agr8/Planner-IV/pull/29)                  | 0.0.8   |           |
